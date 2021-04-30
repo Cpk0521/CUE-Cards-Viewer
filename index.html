@@ -12,7 +12,7 @@
     </style>
 
 </head>
-<body class="w-100" style="height: 100vh;">
+<body class="w-100 overflow-hidden" style="height: 100vh;">
 
     <div class="d-flex" style="height: 100vh;">
 
@@ -35,7 +35,7 @@
         </div>
 
         
-        <div id="right" class='alert-primary' style="width: 275px;overflow-x: hidden;overflow-y: auto;border-left:1px solid #cbcbcb;">
+        <div id="right" class='alert-primary' style="width: 275px;overflow-x: hidden;overflow-y: auto;border-left:1px solid #cbcbcb;height: 100vh;">
 
             <div id="banner" class="w-100 py-2 ps-4" style="border-bottom: 1px solid #cbcbcb;">
                 <nav class="d-flex mb-2">
@@ -48,11 +48,72 @@
                 </a>
             </div>
             
-            <div>
+            <div class="py-2 px-4" style="border-bottom: 1px solid #cbcbcb;">
                 <!-- <input type="checkbox" class="btn-check" id="btn-check-outlined" >
                 <label class="btn btn-outline-primary" for="btn-check-outlined">Single toggle</label><br> -->
-                -filter function not finish- 
+                <h5>表示順</h5>
+                <nav class="d-flex input-group mb-2">
+                    <input class="btn-check" type="radio" name="SortBy" id="cid" value="cid" checked>
+                    <label class="btn btn-outline-primary mx-1" for="cid">Cards ID</label>
+                    <input class="btn-check" type="radio" name="SortBy" id="char" value="char">
+                    <label class="btn btn-outline-primary mx-1" for="char">Charactor</label>
+                </nav>
             </div>
+
+            <div class="py-2 px-4" style="border-bottom: 1px solid #cbcbcb;">
+                <h5 class="mb-2">表示条件</h5>
+                
+                <span class="d-block text-center m-2">Flower</span>
+                <nav class="d-flex mb-2">
+                    <input type="checkbox" class="btn-check" id="f-1" value="1">
+                    <label class="btn btn-outline-primary m-1" for="f-1">六石陽菜</label>
+                    <input type="checkbox" class="btn-check" id="f-2" value="2">
+                    <label class="btn btn-outline-primary m-1" for="f-2">鷹取舞花</label>
+                    <input type="checkbox" class="btn-check" id="f-3" value="3">
+                    <label class="btn btn-outline-primary m-1" for="f-3">鹿野志穂</label>
+                    <input type="checkbox" class="btn-check" id="f-4" value="4">
+                    <label class="btn btn-outline-primary m-1" for="f-4">月居ほのか</label>
+                </nav>
+
+                <span class="d-block text-center m-2">Bird</span>
+                <nav class="d-flex mb-2">
+                    <input type="checkbox" class="btn-check" id="b-1" value="5">
+                    <label class="btn btn-outline-primary m-1" for="b-1">天童悠希</label>
+                    <input type="checkbox" class="btn-check" id="b-2" value="6">
+                    <label class="btn btn-outline-primary m-1" for="b-2">赤川千紗</label>
+                    <input type="checkbox" class="btn-check" id="b-3" value="7">
+                    <label class="btn btn-outline-primary m-1" for="b-3">恵庭あいり</label>
+                    <input type="checkbox" class="btn-check" id="b-4" value="8">
+                    <label class="btn btn-outline-primary m-1" for="b-4">九条柚葉</label>
+                </nav>
+
+                <span class="d-block text-center m-2">Wind</span>
+                <nav class="d-flex mb-2">
+                    <input type="checkbox" class="btn-check" id="w-1" value="9">
+                    <label class="btn btn-outline-primary m-1" for="w-1">夜峰美晴</label>
+                    <input type="checkbox" class="btn-check" id="w-2" value="10">
+                    <label class="btn btn-outline-primary m-1" for="w-2">神室絢</label>
+                    <input type="checkbox" class="btn-check" id="w-3" value="11">
+                    <label class="btn btn-outline-primary m-1" for="w-3">宮路まほろ</label>
+                    <input type="checkbox" class="btn-check" id="w-4" value="12">
+                    <label class="btn btn-outline-primary m-1" for="w-4">日名倉莉子</label>
+                </nav>
+
+                <span class="d-block text-center m-2">Moon</span>
+                <nav class="d-flex mb-2">
+                    <input type="checkbox" class="btn-check" id="m-1" value="13">
+                    <label class="btn btn-outline-primary m-1" for="m-1">丸山利恵</label>
+                    <input type="checkbox" class="btn-check" id="m-2" value="14">
+                    <label class="btn btn-outline-primary m-1" for="m-2">宇津木聡里</label>
+                    <input type="checkbox" class="btn-check" id="m-3" value="15">
+                    <label class="btn btn-outline-primary m-1" for="m-3">明神凛音</label>
+                    <input type="checkbox" class="btn-check" id="m-4" value="16">
+                    <label class="btn btn-outline-primary m-1" for="m-4">遠見鳴</label>
+                </nav>
+
+            </div>
+
+
         </div>
     </div>
 

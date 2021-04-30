@@ -30,7 +30,7 @@ SetupCardsView = (datalist)=>{
     $.each(datalist, (i, val)=>{
   
         let card = $('<nav></nav>');
-        card.addClass("alert-light m-2 d-inline-block position-relative text-center");
+        card.addClass("alert-light m-2 d-inline-block position-relative text-center search");
         card.css("border-radius", "15px");
 
         let img = $('<img/>');
@@ -40,10 +40,13 @@ SetupCardsView = (datalist)=>{
         img.attr('src', val.Normal_thumb);
         let btn = '<button class="position-absolute btn " style="z-index: 3;top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>';
 
-        card.append(img, btn);
+        let cardid = '<p id="cardid" class="d-none">'+ val.cardId +'</p>';
+        let cardname = '<p id="cardname" class="d-none">'+ val.alias +'</p>';
+        let hid = '<p id="hid_'+ val.heroineId +'" class="d-none">'+ val.heroineId +'</p>';
+
+        card.append(img, btn, cardid, cardname, hid);
         $('#cardlist').append(card);
 
-        // console.log(card.find('button'));
         card.find('button').click(function(e){
             e.stopPropagation();
             if(img.hasClass('Blooming')){
@@ -64,10 +67,51 @@ SetupCardsView = (datalist)=>{
             }
 
             $('#showing').addClass("d-flex").removeClass("d-none");
-        })
-    })
+        });
+
+    });
 }
 
 
 
-$(document).ready(() => {});
+$(document).ready(() => {
+
+    $('input[type=radio][name=SortBy]').change(()=>{
+        // console.log($("input[name='SortBy']:checked").val());
+        let val = $("input[name='SortBy']:checked").val();
+        switch (val) {
+            case 'char':
+                cardslst.sort((a, b)=>{return a.heroineId - b.heroineId});
+                break;
+            case 'cid':
+                cardslst.sort((a, b)=>{return a.cardId - b.cardId});
+                break;
+        }
+
+        SetupCardsView(cardslst);
+
+        $('input[type=checkbox]').prop( "checked", false );
+    })
+
+    $('input[type=checkbox]').change(function(){
+
+        if($('input[type=checkbox]').not(':checked').length == $('input[type=checkbox]').length){
+            console.log('Show all');
+            $('#cardlist>nav').removeClass("d-none searching").addClass("d-inline-block search");
+        }else if($('input[type=checkbox]:checked').length > 1){
+            if($(this).is(':checked')){
+                $('#cardlist>nav.searching:has(#hid_'+ $(this).val() +')').toggleClass("d-none searching d-inline-block search");
+            }else{
+                $('#cardlist>nav.search:has(#hid_'+$(this).val()+')').toggleClass("d-none searching d-inline-block search");
+            }
+        }else{
+            if($(this).is(':checked')){
+                $('#cardlist>nav:not(:has(#hid_'+ $(this).val() +'))').toggleClass("d-none searching d-inline-block search"); //除咗自己之外所有嘢消失
+            }else{
+                $('#cardlist>nav.search:has(#hid_'+$(this).val()+')').toggleClass("d-none searching d-inline-block search");
+            }
+        }
+
+    })
+
+});

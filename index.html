@@ -1,0 +1,66 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CUE! Cards Viewer</title>
+    <link rel="icon" href="image/favicon.jpg">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <style>
+        * {margin:0; padding: 0};
+    </style>
+
+</head>
+<body class="w-100" style="height: 100vh;">
+
+    <div class="d-flex" style="height: 100vh;">
+
+        <div id="left" class='col m-auto h-100 w-100 position-relative' style="overflow-x: hidden;overflow-y: auto;">
+
+
+            <div id="showing" class="d-none position-fixed w-100 h-100" style="background-color: rgba(0,0,0,0.3);z-index: 50;">
+                <button id="closeshowing" class="position-absolute btn" style="top: 2vh;right: 2vh;"><i class="far fa-times-circle display-5"></i></button>
+                <img class="mx-auto my-auto w-75" src="Cards/1010001/Card_1010001_1_b.png">
+            </div>
+
+            <div id="cardlist" class="alert-info mx-auto my-4 p-1 justify-content-between" style="width: 90%;">
+
+                <nav class="alert-light m-2 d-inline-block position-relative text-center">
+                    <img id="preimg" src="image/favicon.jpg" class="" style="width: 160px;height: 160px;">
+                    <button class="position-absolute btn " style="top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>
+                </nav>
+
+            </div>
+        </div>
+
+        
+        <div id="right" class='alert-primary' style="width: 275px;overflow-x: hidden;overflow-y: auto;border-left:1px solid #cbcbcb;">
+
+            <div id="banner" class="w-100 py-2 ps-4" style="border-bottom: 1px solid #cbcbcb;">
+                <nav class="d-flex mb-2">
+                    <img src="image/logo.png" style="width: 20%;">
+                    <h4 class="my-auto ps-2">Cards Viewer</h4>
+                </nav>
+                <a class="" href="https://github.com/Cpk0521/CUE-Cards-Viewer" >
+                    <i class="fab fa-github"></i>
+                    Github
+                </a>
+            </div>
+            
+            <div>
+                <!-- <input type="checkbox" class="btn-check" id="btn-check-outlined" >
+                <label class="btn btn-outline-primary" for="btn-check-outlined">Single toggle</label><br> -->
+                -filter function not finish- 
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/fontawesome.min.js"></script>
+    <script src="js/bootstrap.min.js" ></script>
+    <script src="js/main.js" ></script>
+
+</body>
+</html>

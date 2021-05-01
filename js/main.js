@@ -40,11 +40,17 @@ SetupCardsView = (datalist)=>{
         img.attr('src', val.Normal_thumb);
         let btn = '<button class="position-absolute btn " style="z-index: 3;top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>';
 
-        let cardid = '<p id="cardid" class="d-none">'+ val.cardId +'</p>';
-        let cardname = '<p id="cardname" class="d-none">'+ val.alias +'</p>';
+        // let cardid = '<p id="cardid" class="d-none">'+ val.cardId +'</p>';
+        // let cardname = '<p id="cardname" class="d-none">'+ val.alias +'</p>';
         let hid = '<p id="hid_'+ val.heroineId +'" class="d-none">'+ val.heroineId +'</p>';
+        
 
-        card.append(img, btn, cardid, cardname, hid);
+        if(val.cardId > 9000000){
+            card.append(img, hid);
+        }else{
+            card.append(img, btn, hid);
+        }
+
         $('#cardlist').append(card);
 
         card.find('button').click(function(e){

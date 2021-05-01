@@ -1851,8 +1851,8 @@
             "alias": "【みちへのいざない】",
             "Normal_thumb": "Cards/9030013/Card_9030013_1_c.png",
             "Normal": "Cards/9030013/Card_9030013_1_b.png",
-            "Blooming_thumb": "Cards/9030013/Card_9030013_2_c.png",
-            "Blooming": "Cards/9030013/Card_9030013_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4020013,
@@ -1869,8 +1869,8 @@
             "alias": "【SEE YOU EVERYDAY】",
             "Normal_thumb": "Cards/9010016/Card_9010016_1_c.png",
             "Normal": "Cards/9010016/Card_9010016_1_b.png",
-            "Blooming_thumb": "Cards/9010016/Card_9010016_2_c.png",
-            "Blooming": "Cards/9010016/Card_9010016_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4110014,
@@ -1968,8 +1968,8 @@
             "alias": "【木枯らし古書店】",
             "Normal_thumb": "Cards/9140015/Card_9140015_1_c.png",
             "Normal": "Cards/9140015/Card_9140015_1_b.png",
-            "Blooming_thumb": "Cards/9140015/Card_9140015_2_c.png",
-            "Blooming": "Cards/9140015/Card_9140015_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4100013,
@@ -2013,8 +2013,8 @@
             "alias": "【プリンス・チャーミング】",
             "Normal_thumb": "Cards/9060015/Card_9060015_1_c.png",
             "Normal": "Cards/9060015/Card_9060015_1_b.png",
-            "Blooming_thumb": "Cards/9060015/Card_9060015_2_c.png",
-            "Blooming": "Cards/9060015/Card_9060015_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4040016,
@@ -2058,8 +2058,8 @@
             "alias": "【NITELITE】",
             "Normal_thumb": "Cards/9110015/Card_9110015_1_c.png",
             "Normal": "Cards/9110015/Card_9110015_1_b.png",
-            "Blooming_thumb": "Cards/9110015/Card_9110015_2_c.png",
-            "Blooming": "Cards/9110015/Card_9110015_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4070016,
@@ -2130,8 +2130,8 @@
             "alias": "【Target of Subject】",
             "Normal_thumb": "Cards/9040017/Card_9040017_1_c.png",
             "Normal": "Cards/9040017/Card_9040017_1_b.png",
-            "Blooming_thumb": "Cards/9040017/Card_9040017_2_c.png",
-            "Blooming": "Cards/9040017/Card_9040017_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4080017,
@@ -2220,8 +2220,8 @@
             "alias": "【はなみ発見！】",
             "Normal_thumb": "Cards/9150015/Card_9150015_1_c.png",
             "Normal": "Cards/9150015/Card_9150015_1_b.png",
-            "Blooming_thumb": "Cards/9150015/Card_9150015_2_c.png",
-            "Blooming": "Cards/9150015/Card_9150015_2_b.png"
+            "Blooming_thumb": "",
+            "Blooming": ""
         },
         {
             "cardId": 4160016,

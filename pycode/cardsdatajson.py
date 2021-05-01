@@ -52,15 +52,24 @@ jsondata = {'Cards':[]}
 #                 jsondata[chartilte].append({ 'costumeId':model, 'name':"不明" , 'path':filename})
             
 for card in cardList:
-    jsondata['Cards'].append({'cardId': card.no, 
-                    'heroineId': card.heroineId,
-                    'alias': card.alias,
-                    'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
-                    'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
-                    'Blooming_thumb': 'Cards/%s/Card_%s_2_c.png' % (card.no, card.no),
-                    'Blooming': 'Cards/%s/Card_%s_2_b.png' % (card.no, card.no)
-                    })
-
+    if (card.no < 9000000):
+        jsondata['Cards'].append({'cardId': card.no, 
+                        'heroineId': card.heroineId,
+                        'alias': card.alias,
+                        'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+                        'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+                        'Blooming_thumb': 'Cards/%s/Card_%s_2_c.png' % (card.no, card.no),
+                        'Blooming': 'Cards/%s/Card_%s_2_b.png' % (card.no, card.no)
+                        })
+    else:
+        jsondata['Cards'].append({'cardId': card.no, 
+                        'heroineId': card.heroineId,
+                        'alias': card.alias,
+                        'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+                        'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+                        'Blooming_thumb': '',
+                        'Blooming': ''
+                        })
 
 with open('CardsData.json', 'w', encoding='utf-8') as outfile:
     json.dump(jsondata, outfile, indent=4, ensure_ascii=False)

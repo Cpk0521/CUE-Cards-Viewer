@@ -6,61 +6,104 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <style>
         * {margin:0; padding: 0};
     </style>
 
 </head>
-<body class="w-100" style="height: 100vh;">
+<body class="w-100" style="height: 100vh;overflow: hidden;">
+
+    <div id="displaycard" class="d-none row position-fixed displaycard w-100 h-100 p-0 m-0" style="overflow-y: scroll;">
+        <div class="col-lg-9 p-0 d-flex">
+            <div class="m-auto">
+                <img id='cardviwer'class='w-100' alt src="Cards/1010001/Card_1010001_2_b.png">
+            </div>
+        </div>
+        <div class="col-lg-3 bg-light d-flex flex-column p-0 h-100">
+            <div class='d-flex justify-content-end align-items-center p-2 border-bottom border-secondary'>
+                <button id='closedisplaycard' type="button" class="btn btn-outline-secondary btn-circle btn-circle-xl m-1">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="p-2">
+                <div class="p-2 border-bottom border-secondary">
+                    <h3 id='costname'>----</h3>
+                    <h5 id='cardname'>----</h5>
+                </div>
+                <div id='otherimage' class="p-2 d-flex flex-column">
+                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                        <nav class="cardthumbnails">
+                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_c.png">
+                        </nav>
+                    </button>
+                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                        <nav class="cardthumbnails">
+                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_c.png">
+                        </nav>
+                    </button>
+                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                        <nav class="cardthumbnails">
+                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                        </nav>
+                    </button>
+                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                        <nav class="cardthumbnails">
+                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                        </nav>
+                    </button>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="d-flex" style="height: 100vh;">
 
         <div id="left" class='col m-auto h-100 w-100 position-relative' style="overflow-x: hidden;overflow-y: auto;">
 
-
-            <div id="showing" class="d-none position-fixed w-100 h-100" style="background-color: rgba(0,0,0,0.3);z-index: 50;">
-                <button id="closeshowing" class="position-absolute btn" style="top: 2vh;right: 2vh;"><i class="far fa-times-circle display-5"></i></button>
+            <!-- <div id="showing" class="displaycard d-none position-fixed w-100 h-100">
+                <button id="closeshowing" class="position-absolute btn" style="top: 2vh;right: 2vh;">
+                    <i class="far fa-times-circle display-5"></i>
+                </button>
                 <img class="mx-auto my-auto w-75" src="Cards/1010001/Card_1010001_1_b.png">
-            </div>
+            </div> -->
 
-            <div id="cardlist" class="alert-info mx-auto my-4 p-1 justify-content-between" style="width: 90%;">
-
+            <div id="cardlist" class="mx-auto my-4 p-1 justify-content-between" style="width: 90%;">
                 <nav class="alert-light m-2 d-inline-block position-relative text-center">
                     <img id="preimg" src="image/favicon.jpg" class="" style="width: 160px;height: 160px;">
                     <button class="position-absolute btn " style="top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>
                 </nav>
-
             </div>
         </div>
-
         
-        <div id="right" class='alert-primary sticky-top' style="width: 275px;overflow-x: hidden;overflow-y: auto;border-left:1px solid #cbcbcb;height: 100vh;z-index: 4;">
+        <div id="right" class='filterbgcolor sticky-top'>
 
-            <div id="banner" class="w-100 py-2 ps-4" style="border-bottom: 1px solid #cbcbcb;">
+            <div id="banner" class="py-2 ps-4 d-flex flex-column">
                 <nav class="d-flex mb-2">
-                    <img src="image/logo.png" style="width: 20%;">
+                    <img src="image/logo.png">
                     <h4 class="my-auto ps-2">Cards Viewer</h4>
                 </nav>
-                <a class="" href="https://github.com/Cpk0521/CUE-Cards-Viewer" >
-                    <i class="fab fa-github"></i>
+                <a class="btn btn-primary w-50 mx-auto" href="https://github.com/Cpk0521/CUE-Cards-Viewer" >
+                    <i class="fab fa-github my-auto"></i>
                     Github
                 </a>
             </div>
             
-            <div class="py-2 px-4" style="border-bottom: 1px solid #cbcbcb;">
+            <div class="py-2 px-4">
                 <!-- <input type="checkbox" class="btn-check" id="btn-check-outlined" >
                 <label class="btn btn-outline-primary" for="btn-check-outlined">Single toggle</label><br> -->
                 <h5>表示順</h5>
-                <nav class="d-flex input-group mb-2">
+                <nav class="d-flex justify-content-center input-group mb-2">
                     <input class="btn-check" type="radio" name="SortBy" id="cid" value="cid" checked>
-                    <label class="btn btn-outline-primary mx-1" for="cid">Cards ID</label>
+                    <label class="btn btn-outline-primary mx-1" for="cid">ID順</label>
                     <input class="btn-check" type="radio" name="SortBy" id="char" value="char">
-                    <label class="btn btn-outline-primary mx-1" for="char">Charactor</label>
+                    <label class="btn btn-outline-primary mx-1" for="char">メンバー順</label>
                 </nav>
             </div>
 
-            <div class="py-2 px-4" style="border-bottom: 1px solid #cbcbcb;">
+            <div class="py-2 px-4">
                 <h5 class="mb-2">表示条件</h5>
                 
                 <span class="d-block text-center m-2">Flower</span>

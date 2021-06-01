@@ -35,40 +35,52 @@ with open('CardMaster.json', 'r', encoding='utf-8') as json_file:
 
 # ----------------
 
-# chars = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 11, 12, 13, 14, 15, 16, 101, 102, 103]
+chars = ['六石陽菜', '鷹取舞花', '鹿野志穂', "月居ほのか", "天童悠希", "赤川千紗", "恵庭あいり", "九条柚葉", "夜峰美晴", "神室絢", "宮路まほろ", "日名倉莉子", "丸山利恵", "宇津木聡里", "明神凛音", "遠見鳴"]
 
 jsondata = {'Cards':[]}
 
-# for char in chars:
-#     chartilte = '%02d' % (char)
-#     jsondata.update({chartilte:[]})
-#     for model in range(1,15):
-#         filename = 'live2d/%s/%03d/%03d.model3.json' % (chartilte, model, char)
-#         if os.path.exists(filename):
-#             c = list(filter(lambda x: (x.heroineId == char and x.costumeId == model), costlist))
-#             if c:
-#                 jsondata[chartilte].append({ 'costumeId':model, 'name':c[0].costumeName , 'path':filename})
-#             else:
-#                 jsondata[chartilte].append({ 'costumeId':model, 'name':"不明" , 'path':filename})
-            
+# for card in cardList:
+#     if (card.no < 9000000):
+#         jsondata['Cards'].append({'cardId': card.no, 
+#                         'heroineId': card.heroineId,
+#                         'alias': card.alias,
+#                         'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+#                         'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+#                         'Blooming_thumb': 'Cards/%s/Card_%s_2_c.png' % (card.no, card.no),
+#                         'Blooming': 'Cards/%s/Card_%s_2_b.png' % (card.no, card.no)
+#                         })
+#     else:
+#         jsondata['Cards'].append({'cardId': card.no, 
+#                         'heroineId': card.heroineId,
+#                         'alias': card.alias,
+#                         'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+#                         'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+#                         'Blooming_thumb': '',
+#                         'Blooming': ''
+#                         })
+
 for card in cardList:
     if (card.no < 9000000):
         jsondata['Cards'].append({'cardId': card.no, 
                         'heroineId': card.heroineId,
+                        'heroine': chars[card.heroineId-1],
                         'alias': card.alias,
-                        'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
-                        'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
-                        'Blooming_thumb': 'Cards/%s/Card_%s_2_c.png' % (card.no, card.no),
-                        'Blooming': 'Cards/%s/Card_%s_2_b.png' % (card.no, card.no)
+                        'url':{
+                            'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+                            'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+                            'Blooming_thumb': 'Cards/%s/Card_%s_2_c.png' % (card.no, card.no),
+                            'Blooming': 'Cards/%s/Card_%s_2_b.png' % (card.no, card.no)
+                        }
                         })
     else:
-        jsondata['Cards'].append({'cardId': card.no, 
+        jsondata['Cards'].append({'cardId': card.no,
                         'heroineId': card.heroineId,
+                        'heroine': chars[card.heroineId-1],
                         'alias': card.alias,
-                        'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
-                        'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
-                        'Blooming_thumb': '',
-                        'Blooming': ''
+                        'url':{
+                            'Normal_thumb': 'Cards/%s/Card_%s_1_c.png' % (card.no, card.no),
+                            'Normal': 'Cards/%s/Card_%s_1_b.png' % (card.no, card.no),
+                        }
                         })
 
 with open('CardsData.json', 'w', encoding='utf-8') as outfile:

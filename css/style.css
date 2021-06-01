@@ -6,3 +6,59 @@
     padding: 0;
     border-radius: 50%;
 }
+
+body {
+    background-image: url("../image/cover.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#cardlist>nav {
+    max-width: 200px;
+}
+
+#cardlist>nav>img {
+    max-width: 100%;
+}
+
+.displaycard {
+    background-color: rgba(9,9,9,0.9);
+    z-index: 50;
+}
+
+#right {
+    width: 275px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-left:1px solid #cbcbcb;
+    height: 100vh;
+    z-index: 4;
+}
+
+.filterbgcolor {
+    color: #000;
+    background-color: #f3f3f3;
+    border-color: #f3f3f3;
+}
+
+#right>div {
+    border-bottom: 1px solid #cbcbcb;
+}
+
+#banner>nav>img {
+    width: 20%;
+}
+
+.cardthumbnails {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 75px;
+}
+
+.cardthumbnails>img {
+    width: auto;
+    height: inherit;
+}

@@ -1,30 +1,25 @@
-var charactorlist;
-var cardslst;
+var cardslist;
 
+// $('#preimg').click(()=>{
+//     $('#showing').addClass("d-flex").removeClass("d-none");
+// });
 
-$('#preimg').click(()=>{
-    $('#showing').addClass("d-flex").removeClass("d-none");
-});
+// $('#closeshowing').click(()=>{
+//     $('#showing').addClass("d-none").removeClass("d-flex");
+// })
 
-$('#closeshowing').click(()=>{
-    $('#showing').addClass("d-none").removeClass("d-flex");
+$('#closedisplaycard').click(()=>{
+    $('#displaycard').removeClass("d-flex").addClass("d-none");
 })
 
-
-$.getJSON("datalist/CharactorList.json", function(data) {
-    charactorlist = data.Charactor;
+$.getJSON("datalist/newCardsData.json", function(data) {
+    cardslist = data.Cards;
 }).done(function() {
-    // console.log(charactorlist);
+    // console.log(cardslist);
+    SetupCardsList(cardslist);
 });
 
-$.getJSON("datalist/CardsData.json", function(data) {
-    cardslst = data.Cards;
-}).done(function() {
-    // console.log(cardslst);
-    SetupCardsView(cardslst);
-});
-
-SetupCardsView = (datalist)=>{
+SetupCardsList = (datalist)=>{
     $('#cardlist').empty();
 
     $.each(datalist, (i, val)=>{
@@ -37,11 +32,9 @@ SetupCardsView = (datalist)=>{
         img.css({"width": "160px", "height": "160px;"});
         img.addClass("rounded");
 
-        img.attr('src', val.Normal_thumb);
+        img.attr('src', val.url.Normal_thumb);
         let btn = '<button class="position-absolute btn " style="z-index: 3;top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>';
 
-        // let cardid = '<p id="cardid" class="d-none">'+ val.cardId +'</p>';
-        // let cardname = '<p id="cardname" class="d-none">'+ val.alias +'</p>';
         let hid = '<p id="hid_'+ val.heroineId +'" class="d-none">'+ val.heroineId +'</p>';
         
 
@@ -56,29 +49,56 @@ SetupCardsView = (datalist)=>{
         card.find('button').click(function(e){
             e.stopPropagation();
             if(img.hasClass('Blooming')){
-                img.attr('src', val.Normal_thumb);
+                img.attr('src', val.url.Normal_thumb);
                 img.removeClass("Blooming");
             }else{
-                img.attr('src', val.Blooming_thumb);
+                img.attr('src', val.url.Blooming_thumb);
                 img.addClass("Blooming");
             }
         });
 
         card.click(function(){
             // console.log("CLICK");
+
+            SetupCardDisplayViewer(val);
+
             if(img.hasClass('Blooming')){
-                $('#showing > img').attr('src', val.Blooming);
+                ViewerDisplay(val.url.Blooming);
             }else{
-                $('#showing > img').attr('src', val.Normal);
+                ViewerDisplay(val.url.Normal);
             }
 
-            $('#showing').addClass("d-flex").removeClass("d-none");
+            $('#displaycard').removeClass("d-none").addClass("d-flex");
         });
 
     });
 }
 
+SetupCardDisplayViewer = (data)=>{
+    $('#costname').html(data.heroine);
+    if(data.alias == "0")
+        $('#cardname').html("【】");
+    else{
+        $('#cardname').html(data.alias);
+    }
 
+    $('#otherimage').html("");
+    $.each(data.url, (i, val)=>{
+        let btn = $('<button></button>');
+        btn.addClass("btn btn-outline-info d-flex flex-row my-2 rounded p-2");
+        btn.append(`<nav class="cardthumbnails"><img class="m-auto" alt src="${val}"></nav>`);
+
+        $('#otherimage').append(btn);
+
+        btn.click(()=>{
+            ViewerDisplay(val);
+        })
+    })
+}
+
+ViewerDisplay = (data)=>{
+    $('#cardviwer').attr('src', data);
+}
 
 $(document).ready(() => {
 
@@ -94,7 +114,7 @@ $(document).ready(() => {
                 break;
         }
 
-        SetupCardsView(cardslst);
+        SetupCardsList(cardslst);
 
         $('input[type=checkbox]').prop( "checked", false );
     })

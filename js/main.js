@@ -107,14 +107,14 @@ $(document).ready(() => {
         let val = $("input[name='SortBy']:checked").val();
         switch (val) {
             case 'char':
-                cardslst.sort((a, b)=>{return a.heroineId - b.heroineId});
+                cardslist.sort((a, b)=>{return a.heroineId - b.heroineId});
                 break;
             case 'cid':
-                cardslst.sort((a, b)=>{return a.cardId - b.cardId});
+                cardslist.sort((a, b)=>{return a.cardId - b.cardId});
                 break;
         }
 
-        SetupCardsList(cardslst);
+        SetupCardsList(cardslist);
 
         $('input[type=checkbox]').prop( "checked", false );
     })

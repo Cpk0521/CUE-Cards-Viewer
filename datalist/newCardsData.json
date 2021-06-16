@@ -5,7 +5,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1010001/Card_1010001_1_c.png",
                 "Normal": "Cards/1010001/Card_1010001_1_b.png",
                 "Blooming_thumb": "Cards/1010001/Card_1010001_2_c.png",
@@ -17,7 +18,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1020001/Card_1020001_1_c.png",
                 "Normal": "Cards/1020001/Card_1020001_1_b.png",
                 "Blooming_thumb": "Cards/1020001/Card_1020001_2_c.png",
@@ -29,7 +31,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1030001/Card_1030001_1_c.png",
                 "Normal": "Cards/1030001/Card_1030001_1_b.png",
                 "Blooming_thumb": "Cards/1030001/Card_1030001_2_c.png",
@@ -41,7 +44,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1040001/Card_1040001_1_c.png",
                 "Normal": "Cards/1040001/Card_1040001_1_b.png",
                 "Blooming_thumb": "Cards/1040001/Card_1040001_2_c.png",
@@ -53,7 +57,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1050001/Card_1050001_1_c.png",
                 "Normal": "Cards/1050001/Card_1050001_1_b.png",
                 "Blooming_thumb": "Cards/1050001/Card_1050001_2_c.png",
@@ -65,7 +70,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1060001/Card_1060001_1_c.png",
                 "Normal": "Cards/1060001/Card_1060001_1_b.png",
                 "Blooming_thumb": "Cards/1060001/Card_1060001_2_c.png",
@@ -77,7 +83,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1070001/Card_1070001_1_c.png",
                 "Normal": "Cards/1070001/Card_1070001_1_b.png",
                 "Blooming_thumb": "Cards/1070001/Card_1070001_2_c.png",
@@ -89,7 +96,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1080001/Card_1080001_1_c.png",
                 "Normal": "Cards/1080001/Card_1080001_1_b.png",
                 "Blooming_thumb": "Cards/1080001/Card_1080001_2_c.png",
@@ -101,7 +109,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1090001/Card_1090001_1_c.png",
                 "Normal": "Cards/1090001/Card_1090001_1_b.png",
                 "Blooming_thumb": "Cards/1090001/Card_1090001_2_c.png",
@@ -113,7 +122,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1100001/Card_1100001_1_c.png",
                 "Normal": "Cards/1100001/Card_1100001_1_b.png",
                 "Blooming_thumb": "Cards/1100001/Card_1100001_2_c.png",
@@ -125,7 +135,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1110001/Card_1110001_1_c.png",
                 "Normal": "Cards/1110001/Card_1110001_1_b.png",
                 "Blooming_thumb": "Cards/1110001/Card_1110001_2_c.png",
@@ -137,7 +148,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1120001/Card_1120001_1_c.png",
                 "Normal": "Cards/1120001/Card_1120001_1_b.png",
                 "Blooming_thumb": "Cards/1120001/Card_1120001_2_c.png",
@@ -149,7 +161,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1130001/Card_1130001_1_c.png",
                 "Normal": "Cards/1130001/Card_1130001_1_b.png",
                 "Blooming_thumb": "Cards/1130001/Card_1130001_2_c.png",
@@ -161,7 +174,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1140001/Card_1140001_1_c.png",
                 "Normal": "Cards/1140001/Card_1140001_1_b.png",
                 "Blooming_thumb": "Cards/1140001/Card_1140001_2_c.png",
@@ -173,7 +187,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1150001/Card_1150001_1_c.png",
                 "Normal": "Cards/1150001/Card_1150001_1_b.png",
                 "Blooming_thumb": "Cards/1150001/Card_1150001_2_c.png",
@@ -185,7 +200,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "0",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/1160001/Card_1160001_1_c.png",
                 "Normal": "Cards/1160001/Card_1160001_1_b.png",
                 "Blooming_thumb": "Cards/1160001/Card_1160001_2_c.png",
@@ -197,7 +213,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2010002/Card_2010002_1_c.png",
                 "Normal": "Cards/2010002/Card_2010002_1_b.png",
                 "Blooming_thumb": "Cards/2010002/Card_2010002_2_c.png",
@@ -209,7 +226,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2020002/Card_2020002_1_c.png",
                 "Normal": "Cards/2020002/Card_2020002_1_b.png",
                 "Blooming_thumb": "Cards/2020002/Card_2020002_2_c.png",
@@ -221,7 +239,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2030002/Card_2030002_1_c.png",
                 "Normal": "Cards/2030002/Card_2030002_1_b.png",
                 "Blooming_thumb": "Cards/2030002/Card_2030002_2_c.png",
@@ -233,7 +252,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2040002/Card_2040002_1_c.png",
                 "Normal": "Cards/2040002/Card_2040002_1_b.png",
                 "Blooming_thumb": "Cards/2040002/Card_2040002_2_c.png",
@@ -245,7 +265,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2050002/Card_2050002_1_c.png",
                 "Normal": "Cards/2050002/Card_2050002_1_b.png",
                 "Blooming_thumb": "Cards/2050002/Card_2050002_2_c.png",
@@ -257,7 +278,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2060002/Card_2060002_1_c.png",
                 "Normal": "Cards/2060002/Card_2060002_1_b.png",
                 "Blooming_thumb": "Cards/2060002/Card_2060002_2_c.png",
@@ -269,7 +291,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2070002/Card_2070002_1_c.png",
                 "Normal": "Cards/2070002/Card_2070002_1_b.png",
                 "Blooming_thumb": "Cards/2070002/Card_2070002_2_c.png",
@@ -281,7 +304,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2080002/Card_2080002_1_c.png",
                 "Normal": "Cards/2080002/Card_2080002_1_b.png",
                 "Blooming_thumb": "Cards/2080002/Card_2080002_2_c.png",
@@ -293,7 +317,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2090002/Card_2090002_1_c.png",
                 "Normal": "Cards/2090002/Card_2090002_1_b.png",
                 "Blooming_thumb": "Cards/2090002/Card_2090002_2_c.png",
@@ -305,7 +330,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2100002/Card_2100002_1_c.png",
                 "Normal": "Cards/2100002/Card_2100002_1_b.png",
                 "Blooming_thumb": "Cards/2100002/Card_2100002_2_c.png",
@@ -317,7 +343,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2110002/Card_2110002_1_c.png",
                 "Normal": "Cards/2110002/Card_2110002_1_b.png",
                 "Blooming_thumb": "Cards/2110002/Card_2110002_2_c.png",
@@ -329,7 +356,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2120002/Card_2120002_1_c.png",
                 "Normal": "Cards/2120002/Card_2120002_1_b.png",
                 "Blooming_thumb": "Cards/2120002/Card_2120002_2_c.png",
@@ -341,7 +369,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2130002/Card_2130002_1_c.png",
                 "Normal": "Cards/2130002/Card_2130002_1_b.png",
                 "Blooming_thumb": "Cards/2130002/Card_2130002_2_c.png",
@@ -353,7 +382,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2140002/Card_2140002_1_c.png",
                 "Normal": "Cards/2140002/Card_2140002_1_b.png",
                 "Blooming_thumb": "Cards/2140002/Card_2140002_2_c.png",
@@ -365,7 +395,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2150002/Card_2150002_1_c.png",
                 "Normal": "Cards/2150002/Card_2150002_1_b.png",
                 "Blooming_thumb": "Cards/2150002/Card_2150002_2_c.png",
@@ -377,7 +408,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【声優のタマゴ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2160002/Card_2160002_1_c.png",
                 "Normal": "Cards/2160002/Card_2160002_1_b.png",
                 "Blooming_thumb": "Cards/2160002/Card_2160002_2_c.png",
@@ -389,7 +421,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2010003/Card_2010003_1_c.png",
                 "Normal": "Cards/2010003/Card_2010003_1_b.png",
                 "Blooming_thumb": "Cards/2010003/Card_2010003_2_c.png",
@@ -401,7 +434,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2020003/Card_2020003_1_c.png",
                 "Normal": "Cards/2020003/Card_2020003_1_b.png",
                 "Blooming_thumb": "Cards/2020003/Card_2020003_2_c.png",
@@ -413,7 +447,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2030003/Card_2030003_1_c.png",
                 "Normal": "Cards/2030003/Card_2030003_1_b.png",
                 "Blooming_thumb": "Cards/2030003/Card_2030003_2_c.png",
@@ -425,7 +460,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2040003/Card_2040003_1_c.png",
                 "Normal": "Cards/2040003/Card_2040003_1_b.png",
                 "Blooming_thumb": "Cards/2040003/Card_2040003_2_c.png",
@@ -437,7 +473,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2050003/Card_2050003_1_c.png",
                 "Normal": "Cards/2050003/Card_2050003_1_b.png",
                 "Blooming_thumb": "Cards/2050003/Card_2050003_2_c.png",
@@ -449,7 +486,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2060003/Card_2060003_1_c.png",
                 "Normal": "Cards/2060003/Card_2060003_1_b.png",
                 "Blooming_thumb": "Cards/2060003/Card_2060003_2_c.png",
@@ -461,7 +499,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2070003/Card_2070003_1_c.png",
                 "Normal": "Cards/2070003/Card_2070003_1_b.png",
                 "Blooming_thumb": "Cards/2070003/Card_2070003_2_c.png",
@@ -473,7 +512,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2080003/Card_2080003_1_c.png",
                 "Normal": "Cards/2080003/Card_2080003_1_b.png",
                 "Blooming_thumb": "Cards/2080003/Card_2080003_2_c.png",
@@ -485,7 +525,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2090003/Card_2090003_1_c.png",
                 "Normal": "Cards/2090003/Card_2090003_1_b.png",
                 "Blooming_thumb": "Cards/2090003/Card_2090003_2_c.png",
@@ -497,7 +538,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2100003/Card_2100003_1_c.png",
                 "Normal": "Cards/2100003/Card_2100003_1_b.png",
                 "Blooming_thumb": "Cards/2100003/Card_2100003_2_c.png",
@@ -509,7 +551,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2110003/Card_2110003_1_c.png",
                 "Normal": "Cards/2110003/Card_2110003_1_b.png",
                 "Blooming_thumb": "Cards/2110003/Card_2110003_2_c.png",
@@ -521,7 +564,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2120003/Card_2120003_1_c.png",
                 "Normal": "Cards/2120003/Card_2120003_1_b.png",
                 "Blooming_thumb": "Cards/2120003/Card_2120003_2_c.png",
@@ -533,7 +577,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2130003/Card_2130003_1_c.png",
                 "Normal": "Cards/2130003/Card_2130003_1_b.png",
                 "Blooming_thumb": "Cards/2130003/Card_2130003_2_c.png",
@@ -545,7 +590,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2140003/Card_2140003_1_c.png",
                 "Normal": "Cards/2140003/Card_2140003_1_b.png",
                 "Blooming_thumb": "Cards/2140003/Card_2140003_2_c.png",
@@ -557,7 +603,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2150003/Card_2150003_1_c.png",
                 "Normal": "Cards/2150003/Card_2150003_1_b.png",
                 "Blooming_thumb": "Cards/2150003/Card_2150003_2_c.png",
@@ -569,7 +616,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【空を見上げて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/2160003/Card_2160003_1_c.png",
                 "Normal": "Cards/2160003/Card_2160003_1_b.png",
                 "Blooming_thumb": "Cards/2160003/Card_2160003_2_c.png",
@@ -581,7 +629,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【ステップ・バイ・ステップ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010004/Card_3010004_1_c.png",
                 "Normal": "Cards/3010004/Card_3010004_1_b.png",
                 "Blooming_thumb": "Cards/3010004/Card_3010004_2_c.png",
@@ -593,7 +642,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【カミズ・ホリデイ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3020004/Card_3020004_1_c.png",
                 "Normal": "Cards/3020004/Card_3020004_1_b.png",
                 "Blooming_thumb": "Cards/3020004/Card_3020004_2_c.png",
@@ -605,7 +655,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【僕と猫】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3030004/Card_3030004_1_c.png",
                 "Normal": "Cards/3030004/Card_3030004_1_b.png",
                 "Blooming_thumb": "Cards/3030004/Card_3030004_2_c.png",
@@ -617,7 +668,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【チェイス！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3040004/Card_3040004_1_c.png",
                 "Normal": "Cards/3040004/Card_3040004_1_b.png",
                 "Blooming_thumb": "Cards/3040004/Card_3040004_2_c.png",
@@ -629,7 +681,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【永久機関オルタネーター】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3050004/Card_3050004_1_c.png",
                 "Normal": "Cards/3050004/Card_3050004_1_b.png",
                 "Blooming_thumb": "Cards/3050004/Card_3050004_2_c.png",
@@ -641,7 +694,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【シスター・シスター】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3060004/Card_3060004_1_c.png",
                 "Normal": "Cards/3060004/Card_3060004_1_b.png",
                 "Blooming_thumb": "Cards/3060004/Card_3060004_2_c.png",
@@ -653,7 +707,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【ひとりでできるもん！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070004/Card_3070004_1_c.png",
                 "Normal": "Cards/3070004/Card_3070004_1_b.png",
                 "Blooming_thumb": "Cards/3070004/Card_3070004_2_c.png",
@@ -665,7 +720,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【楽しみの求道者】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080004/Card_3080004_1_c.png",
                 "Normal": "Cards/3080004/Card_3080004_1_b.png",
                 "Blooming_thumb": "Cards/3080004/Card_3080004_2_c.png",
@@ -677,7 +733,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【フェアリー・オン・ステージ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3090004/Card_3090004_1_c.png",
                 "Normal": "Cards/3090004/Card_3090004_1_b.png",
                 "Blooming_thumb": "Cards/3090004/Card_3090004_2_c.png",
@@ -689,7 +746,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【Don’t be a stranger.】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100004/Card_3100004_1_c.png",
                 "Normal": "Cards/3100004/Card_3100004_1_b.png",
                 "Blooming_thumb": "Cards/3100004/Card_3100004_2_c.png",
@@ -701,7 +759,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【dig down メモリーズ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3110004/Card_3110004_1_c.png",
                 "Normal": "Cards/3110004/Card_3110004_1_b.png",
                 "Blooming_thumb": "Cards/3110004/Card_3110004_2_c.png",
@@ -713,7 +772,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【幸運を抱きしめて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3120004/Card_3120004_1_c.png",
                 "Normal": "Cards/3120004/Card_3120004_1_b.png",
                 "Blooming_thumb": "Cards/3120004/Card_3120004_2_c.png",
@@ -725,7 +785,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【賞味期限にご注意を】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3130004/Card_3130004_1_c.png",
                 "Normal": "Cards/3130004/Card_3130004_1_b.png",
                 "Blooming_thumb": "Cards/3130004/Card_3130004_2_c.png",
@@ -737,7 +798,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【聡里の宝物庫】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3140004/Card_3140004_1_c.png",
                 "Normal": "Cards/3140004/Card_3140004_1_b.png",
                 "Blooming_thumb": "Cards/3140004/Card_3140004_2_c.png",
@@ -749,7 +811,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【走れ凛音】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3150004/Card_3150004_1_c.png",
                 "Normal": "Cards/3150004/Card_3150004_1_b.png",
                 "Blooming_thumb": "Cards/3150004/Card_3150004_2_c.png",
@@ -761,7 +824,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【オブジェクト・アンディファインド】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3160004/Card_3160004_1_c.png",
                 "Normal": "Cards/3160004/Card_3160004_1_b.png",
                 "Blooming_thumb": "Cards/3160004/Card_3160004_2_c.png",
@@ -773,7 +837,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010005/Card_4010005_1_c.png",
                 "Normal": "Cards/4010005/Card_4010005_1_b.png",
                 "Blooming_thumb": "Cards/4010005/Card_4010005_2_c.png",
@@ -785,7 +850,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020005/Card_4020005_1_c.png",
                 "Normal": "Cards/4020005/Card_4020005_1_b.png",
                 "Blooming_thumb": "Cards/4020005/Card_4020005_2_c.png",
@@ -797,7 +863,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4030005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4030005/Card_4030005_1_c.png",
                 "Normal": "Cards/4030005/Card_4030005_1_b.png",
                 "Blooming_thumb": "Cards/4030005/Card_4030005_2_c.png",
@@ -809,7 +876,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040005/Card_4040005_1_c.png",
                 "Normal": "Cards/4040005/Card_4040005_1_b.png",
                 "Blooming_thumb": "Cards/4040005/Card_4040005_2_c.png",
@@ -821,7 +889,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050005/Card_4050005_1_c.png",
                 "Normal": "Cards/4050005/Card_4050005_1_b.png",
                 "Blooming_thumb": "Cards/4050005/Card_4050005_2_c.png",
@@ -833,7 +902,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060005/Card_4060005_1_c.png",
                 "Normal": "Cards/4060005/Card_4060005_1_b.png",
                 "Blooming_thumb": "Cards/4060005/Card_4060005_2_c.png",
@@ -845,7 +915,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070005/Card_4070005_1_c.png",
                 "Normal": "Cards/4070005/Card_4070005_1_b.png",
                 "Blooming_thumb": "Cards/4070005/Card_4070005_2_c.png",
@@ -857,7 +928,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080005/Card_4080005_1_c.png",
                 "Normal": "Cards/4080005/Card_4080005_1_b.png",
                 "Blooming_thumb": "Cards/4080005/Card_4080005_2_c.png",
@@ -869,7 +941,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090005/Card_4090005_1_c.png",
                 "Normal": "Cards/4090005/Card_4090005_1_b.png",
                 "Blooming_thumb": "Cards/4090005/Card_4090005_2_c.png",
@@ -881,7 +954,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4100005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4100005/Card_4100005_1_c.png",
                 "Normal": "Cards/4100005/Card_4100005_1_b.png",
                 "Blooming_thumb": "Cards/4100005/Card_4100005_2_c.png",
@@ -893,7 +967,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110005/Card_4110005_1_c.png",
                 "Normal": "Cards/4110005/Card_4110005_1_b.png",
                 "Blooming_thumb": "Cards/4110005/Card_4110005_2_c.png",
@@ -905,7 +980,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120005/Card_4120005_1_c.png",
                 "Normal": "Cards/4120005/Card_4120005_1_b.png",
                 "Blooming_thumb": "Cards/4120005/Card_4120005_2_c.png",
@@ -917,7 +993,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130005/Card_4130005_1_c.png",
                 "Normal": "Cards/4130005/Card_4130005_1_b.png",
                 "Blooming_thumb": "Cards/4130005/Card_4130005_2_c.png",
@@ -929,7 +1006,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140005/Card_4140005_1_c.png",
                 "Normal": "Cards/4140005/Card_4140005_1_b.png",
                 "Blooming_thumb": "Cards/4140005/Card_4140005_2_c.png",
@@ -941,7 +1019,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150005/Card_4150005_1_c.png",
                 "Normal": "Cards/4150005/Card_4150005_1_b.png",
                 "Blooming_thumb": "Cards/4150005/Card_4150005_2_c.png",
@@ -953,7 +1032,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【Forever Friends】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160005.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160005/Card_4160005_1_c.png",
                 "Normal": "Cards/4160005/Card_4160005_1_b.png",
                 "Blooming_thumb": "Cards/4160005/Card_4160005_2_c.png",
@@ -965,7 +1045,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【クロスロード・サインポスト】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010006/Card_3010006_1_c.png",
                 "Normal": "Cards/3010006/Card_3010006_1_b.png",
                 "Blooming_thumb": "Cards/3010006/Card_3010006_2_c.png",
@@ -977,7 +1058,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【そっと背中を押して】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3020006/Card_3020006_1_c.png",
                 "Normal": "Cards/3020006/Card_3020006_1_b.png",
                 "Blooming_thumb": "Cards/3020006/Card_3020006_2_c.png",
@@ -989,7 +1071,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【視線の奥に】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3030006/Card_3030006_1_c.png",
                 "Normal": "Cards/3030006/Card_3030006_1_b.png",
                 "Blooming_thumb": "Cards/3030006/Card_3030006_2_c.png",
@@ -1001,7 +1084,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【Let's go around】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3040006/Card_3040006_1_c.png",
                 "Normal": "Cards/3040006/Card_3040006_1_b.png",
                 "Blooming_thumb": "Cards/3040006/Card_3040006_2_c.png",
@@ -1013,7 +1097,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【唇よ、熱くキミを語れ！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3050006/Card_3050006_1_c.png",
                 "Normal": "Cards/3050006/Card_3050006_1_b.png",
                 "Blooming_thumb": "Cards/3050006/Card_3050006_2_c.png",
@@ -1025,7 +1110,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【プリンセスは大忙し】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3060006/Card_3060006_1_c.png",
                 "Normal": "Cards/3060006/Card_3060006_1_b.png",
                 "Blooming_thumb": "Cards/3060006/Card_3060006_2_c.png",
@@ -1037,7 +1123,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【未来の主人公？】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070006/Card_3070006_1_c.png",
                 "Normal": "Cards/3070006/Card_3070006_1_b.png",
                 "Blooming_thumb": "Cards/3070006/Card_3070006_2_c.png",
@@ -1049,7 +1136,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【ネオリアリズム！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080006/Card_3080006_1_c.png",
                 "Normal": "Cards/3080006/Card_3080006_1_b.png",
                 "Blooming_thumb": "Cards/3080006/Card_3080006_2_c.png",
@@ -1061,7 +1149,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【幸せをルバートで】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3090006/Card_3090006_1_c.png",
                 "Normal": "Cards/3090006/Card_3090006_1_b.png",
                 "Blooming_thumb": "Cards/3090006/Card_3090006_2_c.png",
@@ -1073,7 +1162,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【the shine leads...】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100006/Card_3100006_1_c.png",
                 "Normal": "Cards/3100006/Card_3100006_1_b.png",
                 "Blooming_thumb": "Cards/3100006/Card_3100006_2_c.png",
@@ -1085,7 +1175,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【ハッピーハンティング】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3110006/Card_3110006_1_c.png",
                 "Normal": "Cards/3110006/Card_3110006_1_b.png",
                 "Blooming_thumb": "Cards/3110006/Card_3110006_2_c.png",
@@ -1097,7 +1188,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【天使は肉体労働がお好き】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3120006/Card_3120006_1_c.png",
                 "Normal": "Cards/3120006/Card_3120006_1_b.png",
                 "Blooming_thumb": "Cards/3120006/Card_3120006_2_c.png",
@@ -1109,7 +1201,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【客星のきざし】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3130006/Card_3130006_1_c.png",
                 "Normal": "Cards/3130006/Card_3130006_1_b.png",
                 "Blooming_thumb": "Cards/3130006/Card_3130006_2_c.png",
@@ -1121,7 +1214,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【獣の操者】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3140006/Card_3140006_1_c.png",
                 "Normal": "Cards/3140006/Card_3140006_1_b.png",
                 "Blooming_thumb": "Cards/3140006/Card_3140006_2_c.png",
@@ -1133,7 +1227,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【しあわせのかたち】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3150006/Card_3150006_1_c.png",
                 "Normal": "Cards/3150006/Card_3150006_1_b.png",
                 "Blooming_thumb": "Cards/3150006/Card_3150006_2_c.png",
@@ -1145,7 +1240,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【ダーク・ルーム】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3160006/Card_3160006_1_c.png",
                 "Normal": "Cards/3160006/Card_3160006_1_b.png",
                 "Blooming_thumb": "Cards/3160006/Card_3160006_2_c.png",
@@ -1157,7 +1253,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【三兵衛、秋の感謝フェア】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050007/Card_4050007_1_c.png",
                 "Normal": "Cards/4050007/Card_4050007_1_b.png",
                 "Blooming_thumb": "Cards/4050007/Card_4050007_2_c.png",
@@ -1169,7 +1266,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【ゆっくり消える虹を見て】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090007/Card_4090007_1_c.png",
                 "Normal": "Cards/4090007/Card_4090007_1_b.png",
                 "Blooming_thumb": "Cards/4090007/Card_4090007_2_c.png",
@@ -1181,7 +1279,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【古書ツナグ古都、photo】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3110007/Card_3110007_1_c.png",
                 "Normal": "Cards/3110007/Card_3110007_1_b.png",
                 "Blooming_thumb": "Cards/3110007/Card_3110007_2_c.png",
@@ -1193,7 +1292,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【フラワートレック】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4040007/Card_4040007_1_c.png",
                 "Normal": "Cards/4040007/Card_4040007_1_b.png",
                 "Blooming_thumb": "Cards/4040007/Card_4040007_2_c.png",
@@ -1205,7 +1305,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【秋晴れ乙女】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010007/Card_3010007_1_c.png",
                 "Normal": "Cards/3010007/Card_3010007_1_b.png",
                 "Blooming_thumb": "Cards/3010007/Card_3010007_2_c.png",
@@ -1217,7 +1318,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【シタマチ・ファミリア】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020007/Card_4020007_1_c.png",
                 "Normal": "Cards/4020007/Card_4020007_1_b.png",
                 "Blooming_thumb": "Cards/4020007/Card_4020007_2_c.png",
@@ -1229,7 +1331,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【ヴィジョン・キツネ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160007/Card_4160007_1_c.png",
                 "Normal": "Cards/4160007/Card_4160007_1_b.png",
                 "Blooming_thumb": "Cards/4160007/Card_4160007_2_c.png",
@@ -1241,7 +1344,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【エイジ・オブ・ディスカバリー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3150007/Card_3150007_1_c.png",
                 "Normal": "Cards/3150007/Card_3150007_1_b.png",
                 "Blooming_thumb": "Cards/3150007/Card_3150007_2_c.png",
@@ -1253,7 +1357,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【Reach For The World!】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4130007/Card_4130007_1_c.png",
                 "Normal": "Cards/4130007/Card_4130007_1_b.png",
                 "Blooming_thumb": "Cards/4130007/Card_4130007_2_c.png",
@@ -1265,7 +1370,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【君、死にたもうことなかれ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3140007/Card_3140007_1_c.png",
                 "Normal": "Cards/3140007/Card_3140007_1_b.png",
                 "Blooming_thumb": "Cards/3140007/Card_3140007_2_c.png",
@@ -1277,7 +1383,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【カストールの安息日】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130009/Card_4130009_1_c.png",
                 "Normal": "Cards/4130009/Card_4130009_1_b.png",
                 "Blooming_thumb": "Cards/4130009/Card_4130009_2_c.png",
@@ -1289,7 +1396,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【勝利の栄光を君に】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140008.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140008/Card_4140008_1_c.png",
                 "Normal": "Cards/4140008/Card_4140008_1_b.png",
                 "Blooming_thumb": "Cards/4140008/Card_4140008_2_c.png",
@@ -1301,7 +1409,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【黒祭ドミネーション】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3130008/Card_3130008_1_c.png",
                 "Normal": "Cards/3130008/Card_3130008_1_b.png",
                 "Blooming_thumb": "Cards/3130008/Card_3130008_2_c.png",
@@ -1313,7 +1422,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【in other words】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4100007/Card_4100007_1_c.png",
                 "Normal": "Cards/4100007/Card_4100007_1_b.png",
                 "Blooming_thumb": "Cards/4100007/Card_4100007_2_c.png",
@@ -1325,7 +1435,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【縁起色レイクフェア】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3120008/Card_3120008_1_c.png",
                 "Normal": "Cards/3120008/Card_3120008_1_b.png",
                 "Blooming_thumb": "Cards/3120008/Card_3120008_2_c.png",
@@ -1337,7 +1448,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【What a girl wants】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080007/Card_4080007_1_c.png",
                 "Normal": "Cards/4080007/Card_4080007_1_b.png",
                 "Blooming_thumb": "Cards/4080007/Card_4080007_2_c.png",
@@ -1349,7 +1461,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【舞踏会へようこそ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3060007/Card_3060007_1_c.png",
                 "Normal": "Cards/3060007/Card_3060007_1_b.png",
                 "Blooming_thumb": "Cards/3060007/Card_3060007_2_c.png",
@@ -1361,7 +1474,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【導きのロストラビット】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4070007/Card_4070007_1_c.png",
                 "Normal": "Cards/4070007/Card_4070007_1_b.png",
                 "Blooming_thumb": "Cards/4070007/Card_4070007_2_c.png",
@@ -1373,7 +1487,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【鋼のウィンターブレイカー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3050008/Card_3050008_1_c.png",
                 "Normal": "Cards/3050008/Card_3050008_1_b.png",
                 "Blooming_thumb": "Cards/3050008/Card_3050008_2_c.png",
@@ -1385,7 +1500,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【パウダーシュガーの降る頃に】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120009/Card_4120009_1_c.png",
                 "Normal": "Cards/4120009/Card_4120009_1_b.png",
                 "Blooming_thumb": "Cards/4120009/Card_4120009_2_c.png",
@@ -1397,7 +1513,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【Reunion. 街角にて】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100008/Card_3100008_1_c.png",
                 "Normal": "Cards/3100008/Card_3100008_1_b.png",
                 "Blooming_thumb": "Cards/3100008/Card_3100008_2_c.png",
@@ -1409,7 +1526,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【ユメ・ウツツ・Unconscious】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4110008/Card_4110008_1_c.png",
                 "Normal": "Cards/4110008/Card_4110008_1_b.png",
                 "Blooming_thumb": "Cards/4110008/Card_4110008_2_c.png",
@@ -1421,7 +1539,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【Dreams will come true】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3090008/Card_3090008_1_c.png",
                 "Normal": "Cards/3090008/Card_3090008_1_b.png",
                 "Blooming_thumb": "Cards/3090008/Card_3090008_2_c.png",
@@ -1433,7 +1552,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【Never Knows Best】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040008.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040008/Card_4040008_1_c.png",
                 "Normal": "Cards/4040008/Card_4040008_1_b.png",
                 "Blooming_thumb": "Cards/4040008/Card_4040008_2_c.png",
@@ -1445,7 +1565,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【Only two twin primes】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160008.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160008/Card_4160008_1_c.png",
                 "Normal": "Cards/4160008/Card_4160008_1_b.png",
                 "Blooming_thumb": "Cards/4160008/Card_4160008_2_c.png",
@@ -1457,7 +1578,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【ひとりこのへやで】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4030007.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4030007/Card_4030007_1_c.png",
                 "Normal": "Cards/4030007/Card_4030007_1_b.png",
                 "Blooming_thumb": "Cards/4030007/Card_4030007_2_c.png",
@@ -1469,7 +1591,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【フォーチュンランナー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3020008/Card_3020008_1_c.png",
                 "Normal": "Cards/3020008/Card_3020008_1_b.png",
                 "Blooming_thumb": "Cards/3020008/Card_3020008_2_c.png",
@@ -1481,7 +1604,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【グロウアップ・デイズ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010008/Card_3010008_1_c.png",
                 "Normal": "Cards/3010008/Card_3010008_1_b.png",
                 "Blooming_thumb": "Cards/3010008/Card_3010008_2_c.png",
@@ -1493,7 +1617,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【疾走れ！自転の勇者ママチャリオン】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050009/Card_4050009_1_c.png",
                 "Normal": "Cards/4050009/Card_4050009_1_b.png",
                 "Blooming_thumb": "Cards/4050009/Card_4050009_2_c.png",
@@ -1505,7 +1630,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【ワンデイ・スター】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070008/Card_3070008_1_c.png",
                 "Normal": "Cards/3070008/Card_3070008_1_b.png",
                 "Blooming_thumb": "Cards/3070008/Card_3070008_2_c.png",
@@ -1517,7 +1643,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【小さな当たり前と大きな幸せ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4060008/Card_4060008_1_c.png",
                 "Normal": "Cards/4060008/Card_4060008_1_b.png",
                 "Blooming_thumb": "Cards/4060008/Card_4060008_2_c.png",
@@ -1529,7 +1656,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【ルーキーアイスガール】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080008/Card_3080008_1_c.png",
                 "Normal": "Cards/3080008/Card_3080008_1_b.png",
                 "Blooming_thumb": "Cards/3080008/Card_3080008_2_c.png",
@@ -1541,7 +1669,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【笑顔で空を灯して】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060009/Card_4060009_1_c.png",
                 "Normal": "Cards/4060009/Card_4060009_1_b.png",
                 "Blooming_thumb": "Cards/4060009/Card_4060009_2_c.png",
@@ -1553,7 +1682,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【スイート・セレナーデ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090009/Card_4090009_1_c.png",
                 "Normal": "Cards/4090009/Card_4090009_1_b.png",
                 "Blooming_thumb": "Cards/4090009/Card_4090009_2_c.png",
@@ -1565,7 +1695,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【炎獄式ビターエンド】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130010/Card_4130010_1_c.png",
                 "Normal": "Cards/4130010/Card_4130010_1_b.png",
                 "Blooming_thumb": "Cards/4130010/Card_4130010_2_c.png",
@@ -1577,7 +1708,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【束の間のロンググッドバイ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4010009/Card_4010009_1_c.png",
                 "Normal": "Cards/4010009/Card_4010009_1_b.png",
                 "Blooming_thumb": "Cards/4010009/Card_4010009_2_c.png",
@@ -1589,7 +1721,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【クリアスノウ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3040009/Card_3040009_1_c.png",
                 "Normal": "Cards/3040009/Card_3040009_1_b.png",
                 "Blooming_thumb": "Cards/3040009/Card_3040009_2_c.png",
@@ -1601,7 +1734,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【桜の花舞う教室で】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010010/Card_4010010_1_c.png",
                 "Normal": "Cards/4010010/Card_4010010_1_b.png",
                 "Blooming_thumb": "Cards/4010010/Card_4010010_2_c.png",
@@ -1613,7 +1747,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【春風トラベリング】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070009/Card_4070009_1_c.png",
                 "Normal": "Cards/4070009/Card_4070009_1_b.png",
                 "Blooming_thumb": "Cards/4070009/Card_4070009_2_c.png",
@@ -1625,7 +1760,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【ランチタイム・アップデート】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080009/Card_4080009_1_c.png",
                 "Normal": "Cards/4080009/Card_4080009_1_b.png",
                 "Blooming_thumb": "Cards/4080009/Card_4080009_2_c.png",
@@ -1637,7 +1773,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【爆誕！TENDO-MkⅡ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3050010/Card_3050010_1_c.png",
                 "Normal": "Cards/3050010/Card_3050010_1_b.png",
                 "Blooming_thumb": "Cards/3050010/Card_3050010_2_c.png",
@@ -1649,7 +1786,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【フィルムいっぱいの思い出を】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4150008/Card_4150008_1_c.png",
                 "Normal": "Cards/4150008/Card_4150008_1_b.png",
                 "Blooming_thumb": "Cards/4150008/Card_4150008_2_c.png",
@@ -1661,7 +1799,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【ウィスパリング・ワン】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3160009/Card_3160009_1_c.png",
                 "Normal": "Cards/3160009/Card_3160009_1_b.png",
                 "Blooming_thumb": "Cards/3160009/Card_3160009_2_c.png",
@@ -1673,7 +1812,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【極彩色で笑いたい】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150009/Card_4150009_1_c.png",
                 "Normal": "Cards/4150009/Card_4150009_1_b.png",
                 "Blooming_thumb": "Cards/4150009/Card_4150009_2_c.png",
@@ -1685,7 +1825,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【Can you see what I see】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100009/Card_3100009_1_c.png",
                 "Normal": "Cards/3100009/Card_3100009_1_b.png",
                 "Blooming_thumb": "Cards/3100009/Card_3100009_2_c.png",
@@ -1697,7 +1838,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【DAYS and the DAY】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110009.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110009/Card_4110009_1_c.png",
                 "Normal": "Cards/4110009/Card_4110009_1_b.png",
                 "Blooming_thumb": "Cards/4110009/Card_4110009_2_c.png",
@@ -1709,7 +1851,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【タイムコールが聴こえる】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4120010/Card_4120010_1_c.png",
                 "Normal": "Cards/4120010/Card_4120010_1_b.png",
                 "Blooming_thumb": "Cards/4120010/Card_4120010_2_c.png",
@@ -1721,7 +1864,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【スタンドバイミー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040010/Card_4040010_1_c.png",
                 "Normal": "Cards/4040010/Card_4040010_1_b.png",
                 "Blooming_thumb": "Cards/4040010/Card_4040010_2_c.png",
@@ -1733,7 +1877,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【リトル・バイ・リトル】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010011/Card_3010011_1_c.png",
                 "Normal": "Cards/3010011/Card_3010011_1_b.png",
                 "Blooming_thumb": "Cards/3010011/Card_3010011_2_c.png",
@@ -1745,7 +1890,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【わたしにできること】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4030008/Card_4030008_1_c.png",
                 "Normal": "Cards/4030008/Card_4030008_1_b.png",
                 "Blooming_thumb": "Cards/4030008/Card_4030008_2_c.png",
@@ -1757,7 +1903,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【シンケン・トライブ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3020009/Card_3020009_1_c.png",
                 "Normal": "Cards/3020009/Card_3020009_1_b.png",
                 "Blooming_thumb": "Cards/3020009/Card_3020009_2_c.png",
@@ -1769,7 +1916,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【今日は明日の思い出】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060010/Card_4060010_1_c.png",
                 "Normal": "Cards/4060010/Card_4060010_1_b.png",
                 "Blooming_thumb": "Cards/4060010/Card_4060010_2_c.png",
@@ -1781,7 +1929,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【掌のカラフル】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3140009/Card_3140009_1_c.png",
                 "Normal": "Cards/3140009/Card_3140009_1_b.png",
                 "Blooming_thumb": "Cards/3140009/Card_3140009_2_c.png",
@@ -1793,7 +1942,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【Secret Garden】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4090010/Card_4090010_1_c.png",
                 "Normal": "Cards/4090010/Card_4090010_1_b.png",
                 "Blooming_thumb": "Cards/4090010/Card_4090010_2_c.png",
@@ -1805,7 +1955,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【雲がちぎれる時を】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090011/Card_4090011_1_c.png",
                 "Normal": "Cards/4090011/Card_4090011_1_b.png",
                 "Blooming_thumb": "Cards/4090011/Card_4090011_2_c.png",
@@ -1817,7 +1968,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【シロクロ・コミット】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020010/Card_4020010_1_c.png",
                 "Normal": "Cards/4020010/Card_4020010_1_b.png",
                 "Blooming_thumb": "Cards/4020010/Card_4020010_2_c.png",
@@ -1829,7 +1981,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【君が選ばれた日に】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3120011/Card_3120011_1_c.png",
                 "Normal": "Cards/3120011/Card_3120011_1_b.png",
                 "Blooming_thumb": "Cards/3120011/Card_3120011_2_c.png",
@@ -1841,7 +1994,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【UP！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4080010/Card_4080010_1_c.png",
                 "Normal": "Cards/4080010/Card_4080010_1_b.png",
                 "Blooming_thumb": "Cards/4080010/Card_4080010_2_c.png",
@@ -1853,7 +2007,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【コネクト】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070010/Card_3070010_1_c.png",
                 "Normal": "Cards/3070010/Card_3070010_1_b.png",
                 "Blooming_thumb": "Cards/3070010/Card_3070010_2_c.png",
@@ -1865,7 +2020,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【ウェーニーウィーディーウィーキー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140010/Card_4140010_1_c.png",
                 "Normal": "Cards/4140010/Card_4140010_1_b.png",
                 "Blooming_thumb": "Cards/4140010/Card_4140010_2_c.png",
@@ -1877,7 +2033,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【かぜのまにまに】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3030009/Card_3030009_1_c.png",
                 "Normal": "Cards/3030009/Card_3030009_1_b.png",
                 "Blooming_thumb": "Cards/3030009/Card_3030009_2_c.png",
@@ -1889,7 +2046,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【リンケージ・マイナー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4160010/Card_4160010_1_c.png",
                 "Normal": "Cards/4160010/Card_4160010_1_b.png",
                 "Blooming_thumb": "Cards/4160010/Card_4160010_2_c.png",
@@ -1901,7 +2059,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【孤独ノスヽメ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110010/Card_4110010_1_c.png",
                 "Normal": "Cards/4110010/Card_4110010_1_b.png",
                 "Blooming_thumb": "Cards/4110010/Card_4110010_2_c.png",
@@ -1913,7 +2072,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【ウィッシュムーン】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3040011/Card_3040011_1_c.png",
                 "Normal": "Cards/3040011/Card_3040011_1_b.png",
                 "Blooming_thumb": "Cards/3040011/Card_3040011_2_c.png",
@@ -1925,7 +2085,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【エリスちゃんは大忙し】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3130011/Card_3130011_1_c.png",
                 "Normal": "Cards/3130011/Card_3130011_1_b.png",
                 "Blooming_thumb": "Cards/3130011/Card_3130011_2_c.png",
@@ -1937,7 +2098,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【ぬれねこにひき】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4030010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4030010/Card_4030010_1_c.png",
                 "Normal": "Cards/4030010/Card_4030010_1_b.png",
                 "Blooming_thumb": "Cards/4030010/Card_4030010_2_c.png",
@@ -1949,7 +2111,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【back on top】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4100010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4100010/Card_4100010_1_c.png",
                 "Normal": "Cards/4100010/Card_4100010_1_b.png",
                 "Blooming_thumb": "Cards/4100010/Card_4100010_2_c.png",
@@ -1961,7 +2124,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【雨に唄えば】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070011/Card_4070011_1_c.png",
                 "Normal": "Cards/4070011/Card_4070011_1_b.png",
                 "Blooming_thumb": "Cards/4070011/Card_4070011_2_c.png",
@@ -1973,7 +2137,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【リトルプレジデント】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080011/Card_3080011_1_c.png",
                 "Normal": "Cards/3080011/Card_3080011_1_b.png",
                 "Blooming_thumb": "Cards/3080011/Card_3080011_2_c.png",
@@ -1985,7 +2150,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【僕らの声優力研究所】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4050011/Card_4050011_1_c.png",
                 "Normal": "Cards/4050011/Card_4050011_1_b.png",
                 "Blooming_thumb": "Cards/4050011/Card_4050011_2_c.png",
@@ -1997,7 +2163,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【この手に恵みを】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3060011/Card_3060011_1_c.png",
                 "Normal": "Cards/3060011/Card_3060011_1_b.png",
                 "Blooming_thumb": "Cards/3060011/Card_3060011_2_c.png",
@@ -2009,7 +2176,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【冷酷なる悪魔のエクスキューション】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130012/Card_4130012_1_c.png",
                 "Normal": "Cards/4130012/Card_4130012_1_b.png",
                 "Blooming_thumb": "Cards/4130012/Card_4130012_2_c.png",
@@ -2021,7 +2189,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【女王に捧げる薬指】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040012/Card_4040012_1_c.png",
                 "Normal": "Cards/4040012/Card_4040012_1_b.png",
                 "Blooming_thumb": "Cards/4040012/Card_4040012_2_c.png",
@@ -2033,7 +2202,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【オフショアの乙女】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120012/Card_4120012_1_c.png",
                 "Normal": "Cards/4120012/Card_4120012_1_b.png",
                 "Blooming_thumb": "Cards/4120012/Card_4120012_2_c.png",
@@ -2045,7 +2215,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【部屋の中の晴々】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4060012/Card_4060012_1_c.png",
                 "Normal": "Cards/4060012/Card_4060012_1_b.png",
                 "Blooming_thumb": "Cards/4060012/Card_4060012_2_c.png",
@@ -2057,7 +2228,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【ユー・ガット・エール】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080012/Card_4080012_1_c.png",
                 "Normal": "Cards/4080012/Card_4080012_1_b.png",
                 "Blooming_thumb": "Cards/4080012/Card_4080012_2_c.png",
@@ -2069,7 +2241,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【在りし日の詩】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140012/Card_4140012_1_c.png",
                 "Normal": "Cards/4140012/Card_4140012_1_b.png",
                 "Blooming_thumb": "Cards/4140012/Card_4140012_2_c.png",
@@ -2081,7 +2254,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【エヴァーグリーン】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010012/Card_4010012_1_c.png",
                 "Normal": "Cards/4010012/Card_4010012_1_b.png",
                 "Blooming_thumb": "Cards/4010012/Card_4010012_2_c.png",
@@ -2093,7 +2267,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【ことのはさらさら】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3030011/Card_3030011_1_c.png",
                 "Normal": "Cards/3030011/Card_3030011_1_b.png",
                 "Blooming_thumb": "Cards/3030011/Card_3030011_2_c.png",
@@ -2105,7 +2280,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【ビン詰めの花畑】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150010.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150010/Card_4150010_1_c.png",
                 "Normal": "Cards/4150010/Card_4150010_1_b.png",
                 "Blooming_thumb": "Cards/4150010/Card_4150010_2_c.png",
@@ -2117,7 +2293,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【バレット・タイム】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160011/Card_4160011_1_c.png",
                 "Normal": "Cards/4160011/Card_4160011_1_b.png",
                 "Blooming_thumb": "Cards/4160011/Card_4160011_2_c.png",
@@ -2129,7 +2306,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【雲の向こうは青空】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4140011/Card_4140011_1_c.png",
                 "Normal": "Cards/4140011/Card_4140011_1_b.png",
                 "Blooming_thumb": "Cards/4140011/Card_4140011_2_c.png",
@@ -2141,7 +2319,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【元気のオーラ・バトル】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050012/Card_4050012_1_c.png",
                 "Normal": "Cards/4050012/Card_4050012_1_b.png",
                 "Blooming_thumb": "Cards/4050012/Card_4050012_2_c.png",
@@ -2153,7 +2332,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【ウォーターキャンディ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070012/Card_4070012_1_c.png",
                 "Normal": "Cards/4070012/Card_4070012_1_b.png",
                 "Blooming_thumb": "Cards/4070012/Card_4070012_2_c.png",
@@ -2165,7 +2345,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【fun! fun! fun!】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4040013/Card_4040013_1_c.png",
                 "Normal": "Cards/4040013/Card_4040013_1_b.png",
                 "Blooming_thumb": "Cards/4040013/Card_4040013_2_c.png",
@@ -2177,7 +2358,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【夏の日のイリュージョン】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150011/Card_4150011_1_c.png",
                 "Normal": "Cards/4150011/Card_4150011_1_b.png",
                 "Blooming_thumb": "Cards/4150011/Card_4150011_2_c.png",
@@ -2189,7 +2371,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【廻る日の１ページ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010013/Card_4010013_1_c.png",
                 "Normal": "Cards/4010013/Card_4010013_1_b.png",
                 "Blooming_thumb": "Cards/4010013/Card_4010013_2_c.png",
@@ -2201,7 +2384,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【オーバー・ザ・シー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060013/Card_4060013_1_c.png",
                 "Normal": "Cards/4060013/Card_4060013_1_b.png",
                 "Blooming_thumb": "Cards/4060013/Card_4060013_2_c.png",
@@ -2213,7 +2397,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【てめぇら全員召し上がれ！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3050013/Card_3050013_1_c.png",
                 "Normal": "Cards/3050013/Card_3050013_1_b.png",
                 "Blooming_thumb": "Cards/3050013/Card_3050013_2_c.png",
@@ -2225,7 +2410,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【End of twilight】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4100011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4100011/Card_4100011_1_c.png",
                 "Normal": "Cards/4100011/Card_4100011_1_b.png",
                 "Blooming_thumb": "Cards/4100011/Card_4100011_2_c.png",
@@ -2237,7 +2423,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【真夏の夜の夢】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090013/Card_4090013_1_c.png",
                 "Normal": "Cards/4090013/Card_4090013_1_b.png",
                 "Blooming_thumb": "Cards/4090013/Card_4090013_2_c.png",
@@ -2249,7 +2436,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【私をビーチに連れてって】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4120013/Card_4120013_1_c.png",
                 "Normal": "Cards/4120013/Card_4120013_1_b.png",
                 "Blooming_thumb": "Cards/4120013/Card_4120013_2_c.png",
@@ -2261,7 +2449,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【ベイビー・クロケット】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020011.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020011/Card_4020011_1_c.png",
                 "Normal": "Cards/4020011/Card_4020011_1_b.png",
                 "Blooming_thumb": "Cards/4020011/Card_4020011_2_c.png",
@@ -2273,7 +2462,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【エンドオブサマーを見送って】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120014/Card_4120014_1_c.png",
                 "Normal": "Cards/4120014/Card_4120014_1_b.png",
                 "Blooming_thumb": "Cards/4120014/Card_4120014_2_c.png",
@@ -2285,7 +2475,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【なつかげすずし】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4030012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4030012/Card_4030012_1_c.png",
                 "Normal": "Cards/4030012/Card_4030012_1_b.png",
                 "Blooming_thumb": "Cards/4030012/Card_4030012_2_c.png",
@@ -2297,7 +2488,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【way of life, where to go?】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110012/Card_4110012_1_c.png",
                 "Normal": "Cards/4110012/Card_4110012_1_b.png",
                 "Blooming_thumb": "Cards/4110012/Card_4110012_2_c.png",
@@ -2309,7 +2501,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【秋空のスイッチ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070013/Card_3070013_1_c.png",
                 "Normal": "Cards/3070013/Card_3070013_1_b.png",
                 "Blooming_thumb": "Cards/3070013/Card_3070013_2_c.png",
@@ -2321,7 +2514,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【誰ソ彼のオーダー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130013/Card_4130013_1_c.png",
                 "Normal": "Cards/4130013/Card_4130013_1_b.png",
                 "Blooming_thumb": "Cards/4130013/Card_4130013_2_c.png",
@@ -2333,7 +2527,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【ステラ・ハント】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4140013/Card_4140013_1_c.png",
                 "Normal": "Cards/4140013/Card_4140013_1_b.png",
                 "Blooming_thumb": "Cards/4140013/Card_4140013_2_c.png",
@@ -2345,7 +2540,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【way of life】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040014/Card_4040014_1_c.png",
                 "Normal": "Cards/4040014/Card_4040014_1_b.png",
                 "Blooming_thumb": "Cards/4040014/Card_4040014_2_c.png",
@@ -2357,7 +2553,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【キャンパス・エッヂ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3020012/Card_3020012_1_c.png",
                 "Normal": "Cards/3020012/Card_3020012_1_b.png",
                 "Blooming_thumb": "Cards/3020012/Card_3020012_2_c.png",
@@ -2369,7 +2566,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【penguin avenue】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100012/Card_3100012_1_c.png",
                 "Normal": "Cards/3100012/Card_3100012_1_b.png",
                 "Blooming_thumb": "Cards/3100012/Card_3100012_2_c.png",
@@ -2381,7 +2579,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【天童重工進出ス！】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050014/Card_4050014_1_c.png",
                 "Normal": "Cards/4050014/Card_4050014_1_b.png",
                 "Blooming_thumb": "Cards/4050014/Card_4050014_2_c.png",
@@ -2393,7 +2592,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【Red Alert】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160012.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160012/Card_4160012_1_c.png",
                 "Normal": "Cards/4160012/Card_4160012_1_b.png",
                 "Blooming_thumb": "Cards/4160012/Card_4160012_2_c.png",
@@ -2405,7 +2605,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【harvest ＆ pup】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080014/Card_4080014_1_c.png",
                 "Normal": "Cards/4080014/Card_4080014_1_b.png",
                 "Blooming_thumb": "Cards/4080014/Card_4080014_2_c.png",
@@ -2417,7 +2618,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【おためしマーケット】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3150012/Card_3150012_1_c.png",
                 "Normal": "Cards/3150012/Card_3150012_1_b.png",
                 "Blooming_thumb": "Cards/3150012/Card_3150012_2_c.png",
@@ -2429,7 +2631,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【ハーモニー・ダイナー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010014/Card_4010014_1_c.png",
                 "Normal": "Cards/4010014/Card_4010014_1_b.png",
                 "Blooming_thumb": "Cards/4010014/Card_4010014_2_c.png",
@@ -2441,7 +2644,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【薔薇と黙示録をあなたに】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3140014/Card_3140014_1_c.png",
                 "Normal": "Cards/3140014/Card_3140014_1_b.png",
                 "Blooming_thumb": "Cards/3140014/Card_3140014_2_c.png",
@@ -2453,7 +2657,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【opus 66】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4090014/Card_4090014_1_c.png",
                 "Normal": "Cards/4090014/Card_4090014_1_b.png",
                 "Blooming_thumb": "Cards/4090014/Card_4090014_2_c.png",
@@ -2465,7 +2670,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【みちへのいざない】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9030013/Card_9030013_1_c.png",
                 "Normal": "Cards/9030013/Card_9030013_1_b.png"
             }
@@ -2475,7 +2681,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【ゴールデンアワー】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020013/Card_4020013_1_c.png",
                 "Normal": "Cards/4020013/Card_4020013_1_b.png",
                 "Blooming_thumb": "Cards/4020013/Card_4020013_2_c.png",
@@ -2487,7 +2694,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【SEE YOU EVERYDAY】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9010016/Card_9010016_1_c.png",
                 "Normal": "Cards/9010016/Card_9010016_1_b.png"
             }
@@ -2497,7 +2705,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【DELIGHT & DAYLIGHT】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110014/Card_4110014_1_c.png",
                 "Normal": "Cards/4110014/Card_4110014_1_b.png",
                 "Blooming_thumb": "Cards/4110014/Card_4110014_2_c.png",
@@ -2509,7 +2718,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【せきららにダブルス】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3120015/Card_3120015_1_c.png",
                 "Normal": "Cards/3120015/Card_3120015_1_b.png",
                 "Blooming_thumb": "Cards/3120015/Card_3120015_2_c.png",
@@ -2521,7 +2731,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【ゆうやけ小路】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150013/Card_4150013_1_c.png",
                 "Normal": "Cards/4150013/Card_4150013_1_b.png",
                 "Blooming_thumb": "Cards/4150013/Card_4150013_2_c.png",
@@ -2533,7 +2744,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【オー・ド・ヴィー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3160013/Card_3160013_1_c.png",
                 "Normal": "Cards/3160013/Card_3160013_1_b.png",
                 "Blooming_thumb": "Cards/3160013/Card_3160013_2_c.png",
@@ -2545,7 +2757,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【ハッピー・キングダムズ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060014/Card_4060014_1_c.png",
                 "Normal": "Cards/4060014/Card_4060014_1_b.png",
                 "Blooming_thumb": "Cards/4060014/Card_4060014_2_c.png",
@@ -2557,7 +2770,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【スウィート・ワン】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3070014/Card_3070014_1_c.png",
                 "Normal": "Cards/3070014/Card_3070014_1_b.png",
                 "Blooming_thumb": "Cards/3070014/Card_3070014_2_c.png",
@@ -2569,7 +2783,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【パッシング・トーキョー】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4080015/Card_4080015_1_c.png",
                 "Normal": "Cards/4080015/Card_4080015_1_b.png",
                 "Blooming_thumb": "Cards/4080015/Card_4080015_2_c.png",
@@ -2581,7 +2796,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【星辰揃いし夜の囁き】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4130014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4130014/Card_4130014_1_c.png",
                 "Normal": "Cards/4130014/Card_4130014_1_b.png",
                 "Blooming_thumb": "Cards/4130014/Card_4130014_2_c.png",
@@ -2593,7 +2809,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【いただきのほし】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4030014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4030014/Card_4030014_1_c.png",
                 "Normal": "Cards/4030014/Card_4030014_1_b.png",
                 "Blooming_thumb": "Cards/4030014/Card_4030014_2_c.png",
@@ -2605,7 +2822,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【RING! RING! RING!】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110013/Card_4110013_1_c.png",
                 "Normal": "Cards/4110013/Card_4110013_1_b.png",
                 "Blooming_thumb": "Cards/4110013/Card_4110013_2_c.png",
@@ -2617,7 +2835,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【木枯らし古書店】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9140015/Card_9140015_1_c.png",
                 "Normal": "Cards/9140015/Card_9140015_1_b.png"
             }
@@ -2627,7 +2846,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【above the promise】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4100013.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4100013/Card_4100013_1_c.png",
                 "Normal": "Cards/4100013/Card_4100013_1_b.png",
                 "Blooming_thumb": "Cards/4100013/Card_4100013_2_c.png",
@@ -2639,7 +2859,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【ウインナワルツ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3090015/Card_3090015_1_c.png",
                 "Normal": "Cards/3090015/Card_3090015_1_b.png",
                 "Blooming_thumb": "Cards/3090015/Card_3090015_2_c.png",
@@ -2651,7 +2872,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【AiRBLUE X'mas!】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4010015/Card_4010015_1_c.png",
                 "Normal": "Cards/4010015/Card_4010015_1_b.png",
                 "Blooming_thumb": "Cards/4010015/Card_4010015_2_c.png",
@@ -2663,7 +2885,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【帰れない？帰らない？】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120016/Card_4120016_1_c.png",
                 "Normal": "Cards/4120016/Card_4120016_1_b.png",
                 "Blooming_thumb": "Cards/4120016/Card_4120016_2_c.png",
@@ -2675,7 +2898,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【プリンス・チャーミング】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9060015/Card_9060015_1_c.png",
                 "Normal": "Cards/9060015/Card_9060015_1_b.png"
             }
@@ -2685,7 +2909,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【わたしのアリーナ！】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4040016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4040016/Card_4040016_1_c.png",
                 "Normal": "Cards/4040016/Card_4040016_1_b.png",
                 "Blooming_thumb": "Cards/4040016/Card_4040016_2_c.png",
@@ -2697,7 +2922,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【PORTAL】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160014/Card_4160014_1_c.png",
                 "Normal": "Cards/4160014/Card_4160014_1_b.png",
                 "Blooming_thumb": "Cards/4160014/Card_4160014_2_c.png",
@@ -2709,7 +2935,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【プルス・ウルトラ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140016/Card_4140016_1_c.png",
                 "Normal": "Cards/4140016/Card_4140016_1_b.png",
                 "Blooming_thumb": "Cards/4140016/Card_4140016_2_c.png",
@@ -2721,7 +2948,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【Terms of Fortune】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080016/Card_3080016_1_c.png",
                 "Normal": "Cards/3080016/Card_3080016_1_b.png",
                 "Blooming_thumb": "Cards/3080016/Card_3080016_2_c.png",
@@ -2733,7 +2961,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【NITELITE】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9110015/Card_9110015_1_c.png",
                 "Normal": "Cards/9110015/Card_9110015_1_b.png"
             }
@@ -2743,7 +2972,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【KAZAHANA】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070016/Card_4070016_1_c.png",
                 "Normal": "Cards/4070016/Card_4070016_1_b.png",
                 "Blooming_thumb": "Cards/4070016/Card_4070016_2_c.png",
@@ -2755,7 +2985,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【ぱーふぇくとわーるど】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4150014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4150014/Card_4150014_1_c.png",
                 "Normal": "Cards/4150014/Card_4150014_1_b.png",
                 "Blooming_thumb": "Cards/4150014/Card_4150014_2_c.png",
@@ -2767,7 +2998,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【夜風が香る】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3010017/Card_3010017_1_c.png",
                 "Normal": "Cards/3010017/Card_3010017_1_b.png",
                 "Blooming_thumb": "Cards/3010017/Card_3010017_2_c.png",
@@ -2779,7 +3011,8 @@
             "heroineId": 13,
             "heroine": "丸山利恵",
             "alias": "【超展望ネスト】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3130015/Card_3130015_1_c.png",
                 "Normal": "Cards/3130015/Card_3130015_1_b.png",
                 "Blooming_thumb": "Cards/3130015/Card_3130015_2_c.png",
@@ -2791,7 +3024,8 @@
             "heroineId": 6,
             "heroine": "赤川千紗",
             "alias": "【魔法をかけて】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4060016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4060016/Card_4060016_1_c.png",
                 "Normal": "Cards/4060016/Card_4060016_1_b.png",
                 "Blooming_thumb": "Cards/4060016/Card_4060016_2_c.png",
@@ -2803,7 +3037,8 @@
             "heroineId": 5,
             "heroine": "天童悠希",
             "alias": "【ままならない戦場】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4050016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4050016/Card_4050016_1_c.png",
                 "Normal": "Cards/4050016/Card_4050016_1_b.png",
                 "Blooming_thumb": "Cards/4050016/Card_4050016_2_c.png",
@@ -2815,7 +3050,8 @@
             "heroineId": 2,
             "heroine": "鷹取舞花",
             "alias": "【ライトマイファイア】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4020014.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4020014/Card_4020014_1_c.png",
                 "Normal": "Cards/4020014/Card_4020014_1_b.png",
                 "Blooming_thumb": "Cards/4020014/Card_4020014_2_c.png",
@@ -2827,7 +3063,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【Target of Subject】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9040017/Card_9040017_1_c.png",
                 "Normal": "Cards/9040017/Card_9040017_1_b.png"
             }
@@ -2837,7 +3074,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【Feast and Family】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4080017.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4080017/Card_4080017_1_c.png",
                 "Normal": "Cards/4080017/Card_4080017_1_b.png",
                 "Blooming_thumb": "Cards/4080017/Card_4080017_2_c.png",
@@ -2849,7 +3087,8 @@
             "heroineId": 3,
             "heroine": "鹿野志穂",
             "alias": "【はんにんはヤツ】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3030015/Card_3030015_1_c.png",
                 "Normal": "Cards/3030015/Card_3030015_1_b.png",
                 "Blooming_thumb": "Cards/3030015/Card_3030015_2_c.png",
@@ -2861,7 +3100,8 @@
             "heroineId": 9,
             "heroine": "夜峰美晴",
             "alias": "【何度も言わせて】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4090016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4090016/Card_4090016_1_c.png",
                 "Normal": "Cards/4090016/Card_4090016_1_b.png",
                 "Blooming_thumb": "Cards/4090016/Card_4090016_2_c.png",
@@ -2873,7 +3113,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【アクターズ・ギルド】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4160015/Card_4160015_1_c.png",
                 "Normal": "Cards/4160015/Card_4160015_1_b.png",
                 "Blooming_thumb": "Cards/4160015/Card_4160015_2_c.png",
@@ -2885,7 +3126,8 @@
             "heroineId": 1,
             "heroine": "六石陽菜",
             "alias": "【届け君へ】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4010018.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4010018/Card_4010018_1_c.png",
                 "Normal": "Cards/4010018/Card_4010018_1_b.png",
                 "Blooming_thumb": "Cards/4010018/Card_4010018_2_c.png",
@@ -2897,7 +3139,8 @@
             "heroineId": 7,
             "heroine": "恵庭あいり",
             "alias": "【未来永遠のともだち】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4070017.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4070017/Card_4070017_1_c.png",
                 "Normal": "Cards/4070017/Card_4070017_1_b.png",
                 "Blooming_thumb": "Cards/4070017/Card_4070017_2_c.png",
@@ -2909,7 +3152,8 @@
             "heroineId": 14,
             "heroine": "宇津木聡里",
             "alias": "【ゲルトルート】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4140017.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4140017/Card_4140017_1_c.png",
                 "Normal": "Cards/4140017/Card_4140017_1_b.png",
                 "Blooming_thumb": "Cards/4140017/Card_4140017_2_c.png",
@@ -2921,7 +3165,8 @@
             "heroineId": 10,
             "heroine": "神室絢",
             "alias": "【Fancy A Brew?】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3100014/Card_3100014_1_c.png",
                 "Normal": "Cards/3100014/Card_3100014_1_b.png",
                 "Blooming_thumb": "Cards/3100014/Card_3100014_2_c.png",
@@ -2933,7 +3178,8 @@
             "heroineId": 12,
             "heroine": "日名倉莉子",
             "alias": "【青空バイクに恋してる】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4120017.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4120017/Card_4120017_1_c.png",
                 "Normal": "Cards/4120017/Card_4120017_1_b.png",
                 "Blooming_thumb": "Cards/4120017/Card_4120017_2_c.png",
@@ -2945,7 +3191,8 @@
             "heroineId": 15,
             "heroine": "明神凛音",
             "alias": "【はなみ発見！】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/9150015/Card_9150015_1_c.png",
                 "Normal": "Cards/9150015/Card_9150015_1_b.png"
             }
@@ -2955,7 +3202,8 @@
             "heroineId": 16,
             "heroine": "遠見鳴",
             "alias": "【Usual Cases】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4160016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4160016/Card_4160016_1_c.png",
                 "Normal": "Cards/4160016/Card_4160016_1_b.png",
                 "Blooming_thumb": "Cards/4160016/Card_4160016_2_c.png",
@@ -2967,7 +3215,8 @@
             "heroineId": 11,
             "heroine": "宮路まほろ",
             "alias": "【You saw my soul】",
-            "url": {
+            "animation": "GachaAnimation/gacha_4110016.mp4",
+            "image": {
                 "Normal_thumb": "Cards/4110016/Card_4110016_1_c.png",
                 "Normal": "Cards/4110016/Card_4110016_1_b.png",
                 "Blooming_thumb": "Cards/4110016/Card_4110016_2_c.png",
@@ -2979,7 +3228,8 @@
             "heroineId": 8,
             "heroine": "九条柚葉",
             "alias": "【The Back-up Plan】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/3080018/Card_3080018_1_c.png",
                 "Normal": "Cards/3080018/Card_3080018_1_b.png",
                 "Blooming_thumb": "Cards/3080018/Card_3080018_2_c.png",
@@ -2991,7 +3241,8 @@
             "heroineId": 4,
             "heroine": "月居ほのか",
             "alias": "【タイドアフター】",
-            "url": {
+            "animation": "",
+            "image": {
                 "Normal_thumb": "Cards/4040018/Card_4040018_1_c.png",
                 "Normal": "Cards/4040018/Card_4040018_1_b.png",
                 "Blooming_thumb": "Cards/4040018/Card_4040018_2_c.png",

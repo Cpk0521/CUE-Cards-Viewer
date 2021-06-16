@@ -8,16 +8,17 @@ var cardslist;
 //     $('#showing').addClass("d-none").removeClass("d-flex");
 // })
 
-$('#closedisplaycard').click(()=>{
-    $('#displaycard').removeClass("d-flex").addClass("d-none");
-})
-
 $.getJSON("datalist/newCardsData.json", function(data) {
     cardslist = data.Cards;
 }).done(function() {
     // console.log(cardslist);
     SetupCardsList(cardslist);
 });
+
+$('#closedisplaycard').click(()=>{
+    $('#displaycard').removeClass("d-flex").addClass("d-none");
+})
+
 
 SetupCardsList = (datalist)=>{
     $('#cardlist').empty();
@@ -32,7 +33,7 @@ SetupCardsList = (datalist)=>{
         img.css({"width": "160px", "height": "160px;"});
         img.addClass("rounded");
 
-        img.attr('src', val.url.Normal_thumb);
+        img.attr('src', val.image.Normal_thumb);
         let btn = '<button class="position-absolute btn " style="z-index: 3;top: 0;right: 0;background-color: rgba(255,255,255,0.3);"><i class="fas fa-sync-alt"></i></button>';
 
         let hid = '<p id="hid_'+ val.heroineId +'" class="d-none">'+ val.heroineId +'</p>';
@@ -49,10 +50,10 @@ SetupCardsList = (datalist)=>{
         card.find('button').click(function(e){
             e.stopPropagation();
             if(img.hasClass('Blooming')){
-                img.attr('src', val.url.Normal_thumb);
+                img.attr('src', val.image.Normal_thumb);
                 img.removeClass("Blooming");
             }else{
-                img.attr('src', val.url.Blooming_thumb);
+                img.attr('src', val.image.Blooming_thumb);
                 img.addClass("Blooming");
             }
         });
@@ -63,9 +64,9 @@ SetupCardsList = (datalist)=>{
             SetupCardDisplayViewer(val);
 
             if(img.hasClass('Blooming')){
-                ViewerDisplay(val.url.Blooming);
+                ViewerDisplay(val.image.Blooming);
             }else{
-                ViewerDisplay(val.url.Normal);
+                ViewerDisplay(val.image.Normal);
             }
 
             $('#displaycard').removeClass("d-none").addClass("d-flex");
@@ -82,13 +83,27 @@ SetupCardDisplayViewer = (data)=>{
         $('#cardname').html(data.alias);
     }
 
-    $('#otherimage').html("");
-    $.each(data.url, (i, val)=>{
+    $('#othersource').html("");
+
+    if(data.animation != ''){
+        let abtn = $('<button></button>');
+        abtn.addClass("btn btn-outline-info flex-row my-1 rounded");
+        abtn.append(`<nav class="cardthumbnails"><i class="far fa-play-circle m-auto"></i></nav>`);
+
+        $('#othersource').append(abtn);
+
+        abtn.click(()=>{
+            Videoplayer(data.animation);
+        })
+    }
+
+    $.each(data.image, (i, val)=>{
         let btn = $('<button></button>');
-        btn.addClass("btn btn-outline-info d-flex flex-row my-2 rounded p-2");
+        // btn.addClass("btn btn-outline-info d-flex flex-row my-2 rounded p-2");
+        btn.addClass("btn btn-outline-info flex-row my-1 rounded");
         btn.append(`<nav class="cardthumbnails"><img class="m-auto" alt src="${val}"></nav>`);
 
-        $('#otherimage').append(btn);
+        $('#othersource').append(btn);
 
         btn.click(()=>{
             ViewerDisplay(val);
@@ -96,8 +111,20 @@ SetupCardDisplayViewer = (data)=>{
     })
 }
 
-ViewerDisplay = (data)=>{
-    $('#cardviwer').attr('src', data);
+ViewerDisplay = (val)=>{
+    $('#cardanimationviwer').addClass('d-none').removeClass('d-flex');
+    $('#cardanimationviwer').html('');
+    $('#cardviwer').addClass('d-flex').removeClass('d-none');
+    $('#cardviwer').attr('src', val);
+}
+
+Videoplayer = (val)=>{
+    $('#cardviwer').addClass('d-none').removeClass('d-flex');
+    $('#cardanimationviwer').addClass('d-flex').removeClass('d-none');
+    let v = $('#cardanimationviwer')[0];
+    v.src = val;
+    v.load();
+    v.play();
 }
 
 $(document).ready(() => {

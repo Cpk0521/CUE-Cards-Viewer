@@ -28,7 +28,11 @@
     <div id="displaycard" class="d-none row position-fixed displaycard w-100 h-100 p-0 m-0" style="overflow-y: scroll;">
         <div class="col-lg-9 p-0 d-flex">
             <div class="m-auto">
-                <img id='cardviwer'class='w-100' alt src="Cards/1010001/Card_1010001_2_b.png">
+                <img id='cardviwer' class='w-100' alt src="Cards/1010001/Card_1010001_2_b.png">
+                <video id='cardanimationviwer' class='w-100 d-none' autoplay controls>
+                    <!-- <source src="./GachaAnimation/gacha_4010005.mp4" type="video/mp4"> -->
+                    Your browser does not support the video tag.
+                </video>
             </div>
         </div>
         <div class="col-lg-3 bg-light d-flex flex-column p-0">
@@ -42,23 +46,28 @@
                     <h3 id='costname'>----</h3>
                     <h5 id='cardname'>----</h5>
                 </div>
-                <div id='otherimage' class="p-2 d-flex flex-column">
-                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                <div id='othersource' class="p-2 d-flex flex-column">
+                    <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
+                        <nav class="cardthumbnails">
+                            <i class="far fa-play-circle m-auto"></i>
+                        </nav>
+                    </button>
+                    <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
                             <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_c.png">
                         </nav>
                     </button>
-                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
-                        <nav class="cardthumbnails">
-                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_c.png">
-                        </nav>
-                    </button>
-                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                    <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
                             <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
                         </nav>
                     </button>
-                    <button type="button" class="btn btn-outline-info d-flex flex-row my-2 rounded p-2">
+                    <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
+                        <nav class="cardthumbnails">
+                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                        </nav>
+                    </button>
+                    <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
                             <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
                         </nav>

@@ -55,10 +55,14 @@ body {
     display: flex;
     text-align: center;
     width: 100%;
-    height: 75px;
+    height: 10vh;
 }
 
 .cardthumbnails>img {
     width: auto;
     height: inherit;
+}
+
+.cardthumbnails>i {
+    font-size: 10vh;
 }

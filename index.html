@@ -5,22 +5,28 @@
     <link rel="icon" href="image/favicon.jpg">
     <meta name="description" content="Cue! Cards Viewer">
 
-    
     <!-- css -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-
-    <!-- tw -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta property="og:url" content="https://cpk0521.github.io/CUE-Cards-Viewer/" />
-    <meta property="og:title" content="Cue! Cards Viewer" />
-    <meta property="og:description" content="Cue! Cards Viewer" />
-    <meta property="og:image" content="https://cpk0521.github.io/CUE-Cards-Viewer/image/TitleBg.png" />
-
     <style>
         * {margin:0; padding: 0};
     </style>
+
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://cpk0521.github.io/CUE-Cards-Viewer/" />
+    <meta name="twitter:title" content="Cards Viewer | Cue! see you everyday" />
+    <meta name="twitter:description" content="Cue! Cards Viewer" />
+    <meta name="twitter:image" content="https://cpk0521.github.io/CUE-Cards-Viewer/image/TitleBg.png" />
+
+    <!-- facebook -->
+    <meta property="og:title" content="Cards Viewer | Cue! see you everyday">
+    <meta property="og:site_name" content="Cards Viewer | Cue! see you everyday">
+    <meta property="og:description" content="Cue! Cards Viewer">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cpk0521.github.io/CUE-Cards-Viewer/">
+    <meta property="og:image" content="https://cpk0521.github.io/CUE-Cards-Viewer/image/TitleBg.png" />
 
 </head>
 <body class="w-100" style="height: 100vh;overflow: hidden;">
@@ -28,9 +34,8 @@
     <div id="displaycard" class="d-none row position-fixed displaycard w-100 h-100 p-0 m-0" style="overflow-y: scroll;">
         <div class="col-lg-9 p-0 d-flex">
             <div class="m-auto">
-                <img id='cardviwer' class='w-100' alt src="Cards/1010001/Card_1010001_2_b.png">
+                <img id='cardviwer' class='w-100' alt src="">
                 <video id='cardanimationviwer' class='w-100 d-none' autoplay controls>
-                    <!-- <source src="./GachaAnimation/gacha_4010005.mp4" type="video/mp4"> -->
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -54,22 +59,22 @@
                     </button>
                     <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
-                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_c.png">
+                            <img class="m-auto" alt src="">
                         </nav>
                     </button>
                     <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
-                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                            <img class="m-auto" alt src="">
                         </nav>
                     </button>
                     <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
-                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                            <img class="m-auto" alt src="">
                         </nav>
                     </button>
                     <button type="button" class="btn btn-outline-info flex-row my-1 rounded">
                         <nav class="cardthumbnails">
-                            <img class="m-auto" alt src="Cards/1010001/Card_1010001_1_b.png">
+                            <img class="m-auto" alt src="">
                         </nav>
                     </button>
                    
@@ -81,13 +86,6 @@
     <div class="d-flex" style="height: 100vh;">
 
         <div id="left" class='col m-auto h-100 w-100 position-relative' style="overflow-x: hidden;overflow-y: auto;">
-
-            <!-- <div id="showing" class="displaycard d-none position-fixed w-100 h-100">
-                <button id="closeshowing" class="position-absolute btn" style="top: 2vh;right: 2vh;">
-                    <i class="far fa-times-circle display-5"></i>
-                </button>
-                <img class="mx-auto my-auto w-75" src="Cards/1010001/Card_1010001_1_b.png">
-            </div> -->
 
             <div id="cardlist" class="mx-auto my-4 p-1 justify-content-between" style="width: 90%;">
                 <nav class="alert-light m-2 d-inline-block position-relative text-center">
@@ -111,8 +109,6 @@
             </div>
             
             <div class="py-2 px-4">
-                <!-- <input type="checkbox" class="btn-check" id="btn-check-outlined" >
-                <label class="btn btn-outline-primary" for="btn-check-outlined">Single toggle</label><br> -->
                 <h5>表示順</h5>
                 <nav class="d-flex justify-content-center input-group mb-2">
                     <input class="btn-check" type="radio" name="SortBy" id="cid" value="cid" checked>
@@ -179,7 +175,7 @@
         </div>
     </div>
 
-
+    <!-- js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/fontawesome.min.js"></script>
     <script src="js/bootstrap.min.js" ></script>

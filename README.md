@@ -1,4 +1,4 @@
-# CUE-Cards-Viewer
+# CUE!（キュー）Cards Viewer
 
 CUE! Cards Viewer [Demo](https://cpk0521.github.io/CUE-Cards-Viewer/ "Demo")
 
